@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- Variáveis de ambiente / credenciais ---
+.env
+*.env
+
+# --- Dados ---
+# Os CSVs de data/raw e data/processed SÃO versionados de propósito: são pequenos
+# (< 1 MB) e permitem abrir o .pbix sem rodar Python.
+# O banco local é recriado com: python scripts/carregar_banco.py
+data/frota.db
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Arquivos temporários do Excel / Power BI ---
+~$*
+*.tmp
+.~lock.*
+
+# --- Sistema operacional / editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

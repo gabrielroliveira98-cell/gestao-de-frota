@@ -1,0 +1,4 @@
+# Versões fixas para garantir que os dados gerados sejam idênticos em qualquer máquina
+pandas==2.3.3
+numpy==2.4.3
+Faker==40.54.0
