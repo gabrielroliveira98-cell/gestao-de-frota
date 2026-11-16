@@ -1,0 +1,41 @@
+veiculo_id,placa,tipo,marca,modelo,ano_fabricacao,base_operacional,data_baixa,status
+1,cur4l85,Coleta,Volkswagen,Constellation 24.280,2020,Zona Norte,,Ativo
+2,NZT7S78,Coleta,Mercedes-Benz,Atego 2430,2012,Zona Leste,,Em manutenção
+3,NJE9U64,Coleta,Mercedes-Benz,Atego 2430,2022,Zona Leste,,Ativo
+4,LFC5X06,Coleta,Volvo,VM 270,2022,Zona Leste,,Ativo
+5,ETS3B97,Coleta,Mercedes-Benz,Atego 2430,2023,Zona Oeste,,Ativo
+6,TFJ4M04,Coleta,Mercedes-Benz,Atego 2430,2013,Zona Leste,,Ativo
+7,XTJ9K32,Coleta,Volvo,VM 270,2016,Zona Leste,,Ativo
+8,UEM1R47,Coleta,Volkswagen,Constellation 24.280,2014,Zona Leste,,Ativo
+9,yle8q70,Coleta,Volkswagen,Constellation 24.280,2015,Zona Oeste,,Ativo
+10,LUV3X28,Coleta,Volkswagen,Constellation 24.280,2020,Zona Norte,,Ativo
+11,VFU0U78,Coleta,Volvo,VM 270,2020,Zona Oeste,,Ativo
+12,HUO4N56,Coleta,Volkswagen,Constellation 24.280,2012,Zona Norte,,Ativo
+13,LRR4W56,Coleta,Volkswagen,Constellation 24.280,2021,Zona Leste,,Ativo
+14,OOC5U30,Coleta,Mercedes-Benz,Atego 2430,2011,Zona Sul,2025-08-15,Inativo
+15,ZFH4Z85,Coleta,Volkswagen,Constellation 24.280,2014,Zona Norte,,Em manutenção
+16,WHX2L66,Coleta,Volkswagen,Constellation 24.280,2018,Zona Oeste,,Em manutenção
+17,ZRK4K81,Coleta,Volkswagen,,2013,Zona Norte,,Ativo
+18,CCU7S46,Coleta,Volvo,VM 270,2013,Zona Leste,,Ativo
+19,YDM6M44,Coleta,Volkswagen,Constellation 24.280,2016,Zona Sul,,Ativo
+20,RQP3Y08,Coleta,Mercedes-Benz,Atego 2430,2012,Centro,,Ativo
+21,JXM6L26,Coleta,Volvo,VM 270,2024,Zona Oeste,,Ativo
+22,GSU4T27,Coleta,Volkswagen,Constellation 24.280,2012,Centro,,Em manutenção
+23,DLS2S30,Hidrojato,Iveco,Tector 170E28,2019,Zona Norte,,Ativo
+24,MWA7M71,Hidrojato,Volkswagen,Delivery 11.180,2017,Zona Leste,,Ativo
+25,DPC6Q08,Hidrojato,Iveco,Tector 170E28,2016,Zona Norte,,Ativo
+26,EME3R14,Hidrojato,Iveco,Tector 170E28,2012,Zona Leste,,Ativo
+27,UEH9Z58,Hidrojato,Volkswagen,Delivery 11.180,2015,Zona Leste,,Ativo
+28,HAD9K48,Hidrojato,Volkswagen,Delivery 11.180,2021,Zona Norte,,Ativo
+29,HMR4L93,Hidrojato,Mercedes-Benz,Atego 1719,2019,Zona Leste,,Ativo
+30,UGY3O52,Hidrojato,Iveco,Tector 170E28,2017,Zona Norte,,Ativo
+31,JVA8O14,Pipa,Volkswagen,Constellation 17.190,2018,Zona Norte,,Ativo
+32,RRD2G65,Pipa,Iveco,Tector 240E30,2021,Zona Oeste,,Ativo
+33,ICP9Z23,Pipa,Volkswagen,Constellation 17.190,2011,Zona Leste,2025-10-31,Inativo
+34,OJI8L80,Pipa,Iveco,Tector 240E30,2015,Centro,,Ativo
+35,QHQ5X25,Pipa,Iveco,Tector 240E30,2024,Zona Norte,,Ativo
+36,NBH4Z99,Pipa,Volkswagen,Constellation 17.190,2023,Zona Oeste,,Ativo
+37,VXF8D51,Pipa,Mercedes-Benz,Atego 1719,2015,Zona Oeste,,Ativo
+38,IRK3X09,Pipa,Iveco,Tector 240E30,2021,Zona Sul,,Ativo
+39,AYY2A12,Pipa,Volkswagen,Constellation 17.190,2022,Zona Norte,,Ativo
+40,tej5s87,Pipa,Volkswagen,Constellation 17.190,2013,Zona Sul,,Ativo

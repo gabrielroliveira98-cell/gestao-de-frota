@@ -1,0 +1,843 @@
+ausencia_id,motorista_id,data,tipo_ocorrencia,motivo,minutos_atraso,justificada
+1,49,2025-01-01,Atraso,Transporte público,40,Não
+2,11,2025-01-02,Atraso,Problema pessoal,21,Não
+3,15,2025-01-02,Falta,Problema familiar,,Não
+4,28,2025-01-02,Atraso,Transporte público,90,Não
+5,32,2025-01-02,Atraso,Trânsito,25,Não
+6,4,2025-01-03,Atraso,Transporte público,14,Não
+7,48,2025-01-03,Atraso,Chuva/alagamento,600,Sim
+8,1,2025-01-04,Atraso,Transporte público,17,Não
+9,3,2025-01-04,Atraso,Transporte público,16,Não
+10,4,2025-01-04,Falta,Problema familiar,,Não
+11,11,2025-01-04,Atraso,Transporte público,37,Não
+12,15,2025-01-04,Falta,Problema familiar,,Não
+13,34,2025-01-04,Atraso,Problema pessoal,77,Não
+14,15,2025-01-06,Atraso,Transporte público,50,Não
+15,17,2025-01-07,Atraso,Trânsito,27,Não
+16,32,2025-01-07,Atraso,Transporte público,14,Não
+17,34,2025-01-07,Atraso,Trânsito,33,Não
+18,6,2025-01-08,Atraso,Chuva/alagamento,30,Sim
+19,11,2025-01-08,Atraso,Problema pessoal,16,Não
+20,29,2025-01-08,Atraso,Transporte público,113,Não
+21,13,2025-01-10,Falta,Atestado médico,,Sim
+22,20,2025-01-10,Atraso,Chuva/alagamento,45,Sim
+23,41,2025-01-10,Falta,Atestado médico,,Sim
+24,44,2025-01-10,Falta,Atestado médico,,Sim
+25,20,2025-01-11,Atraso,Chuva/alagamento,18,Sim
+26,33,2025-01-11,Atraso,Transporte público,48,Não
+27,20,2025-01-13,Atraso,Trânsito,27,Não
+28,27,2025-01-13,Atraso,Transporte público,33,Não
+29,34,2025-01-13,Atraso,Chuva/alagamento,29,Sim
+30,6,2025-01-14,Atraso,Trânsito,32,Não
+31,16,2025-01-14,Atraso,Transporte público,51,Não
+32,19,2025-01-14,Falta,Problema familiar,,Não
+33,33,2025-01-14,Atraso,Transporte público,16,Não
+34,41,2025-01-15,Falta,Atestado médico,,Sim
+35,11,2025-01-16,Atraso,Chuva/alagamento,14,Sim
+36,24,2025-01-16,Atraso,Trânsito,15,Não
+37,27,2025-01-16,Atraso,Chuva/alagamento,17,Sim
+38,1,2025-01-17,Atraso,Trânsito,66,Não
+39,7,2025-01-17,Falta,Consulta/exame médico,,Sim
+40,14,2025-01-17,Atraso,Trânsito,11,Não
+41,16,2025-01-17,Atraso,Transporte público,25,Não
+42,1,2025-01-18,Atraso,Transporte público,25,Não
+43,16,2025-01-18,Atraso,Chuva/alagamento,40,Sim
+44,17,2025-01-20,Atraso,Transporte público,20,Não
+45,19,2025-01-20,Atraso,Transporte público,33,Não
+46,20,2025-01-20,Atraso,Problema pessoal,20,Não
+47,22,2025-01-20,Falta,Atestado médico,,Sim
+48,44,2025-01-20,Atraso,Transporte público,42,Não
+49,28,2025-01-21,Falta,Atestado médico,,Sim
+50,40,2025-01-21,Atraso,Trânsito,49,Não
+51,4,2025-01-22,Falta,Atestado médico,,Sim
+52,16,2025-01-22,Atraso,Transporte público,32,Não
+53,20,2025-01-22,Atraso,Chuva/alagamento,49,Sim
+54,50,2025-01-22,Atraso,Transporte público,49,Não
+55,6,2025-01-23,Atraso,Trânsito,24,Não
+56,13,2025-01-23,Atraso,Trânsito,13,Não
+57,15,2025-01-23,Atraso,Trânsito,66,Não
+58,30,2025-01-23,Atraso,Trânsito,51,Não
+59,38,2025-01-23,Atraso,Chuva/alagamento,53,Sim
+60,50,2025-01-23,Falta,Atestado médico,,Sim
+61,3,2025-01-24,Atraso,Trânsito,93,Não
+62,5,2025-01-24,Atraso,Problema pessoal,37,Não
+63,12,2025-01-24,Atraso,Chuva/alagamento,21,Sim
+64,27,2025-01-24,Atraso,Trânsito,20,Não
+65,3,2025-01-25,Atraso,Trânsito,28,Não
+66,24,2025-01-25,Atraso,Trânsito,11,Não
+67,39,2025-01-25,Atraso,Problema pessoal,39,Não
+68,19,2025-01-27,Atraso,Problema pessoal,21,Não
+69,24,2025-01-27,Atraso,Trânsito,13,Não
+70,4,2025-01-28,Atraso,Transporte público,30,Não
+71,14,2025-01-28,Atraso,Trânsito,37,Não
+72,20,2025-01-28,Atraso,Problema pessoal,12,Não
+73,38,2025-01-28,Atraso,Trânsito,63,Não
+74,1,2025-01-29,Atraso,Trânsito,27,Não
+75,6,2025-01-29,Atraso,Transporte público,17,Não
+76,19,2025-01-29,Atraso,Chuva/alagamento,59,Sim
+77,20,2025-01-29,Falta,Atestado médico,,Sim
+78,27,2025-01-29,Atraso,Trânsito,63,Não
+79,29,2025-01-30,Falta,Falta injustificada,,Não
+80,38,2025-01-30,Atraso,Trânsito,15,Não
+81,44,2025-01-30,Atraso,Transporte público,39,Não
+82,4,2025-01-31,Atraso,Chuva/alagamento,41,Sim
+83,6,2025-01-31,Atraso,Transporte público,48,Não
+84,15,2025-01-31,Atraso,Problema pessoal,17,Não
+85,29,2025-01-31,Atraso,Transporte público,13,Não
+86,33,2025-01-31,Atraso,Chuva/alagamento,14,Sim
+87,41,2025-01-31,Atraso,Trânsito,48,Não
+88,33,2025-02-01,Atraso,Chuva/alagamento,20,Sim
+89,48,2025-02-01,Falta,Atestado médico,,Sim
+90,4,2025-02-03,Falta,Falta injustificada,,Não
+91,15,2025-02-03,Falta,Falta injustificada,,Não
+92,39,2025-02-03,Atraso,Chuva/alagamento,42,Sim
+93,43,2025-02-03,Atraso,Trânsito,17,Não
+94,22,2025-02-04,Atraso,Chuva/alagamento,68,Sim
+95,29,2025-02-04,Atraso,Problema pessoal,45,Não
+96,22,2025-02-05,Atraso,Transporte público,33,Não
+97,50,2025-02-05,Atraso,Trânsito,75,Não
+98,33,2025-02-06,Atraso,Problema pessoal,38,Não
+99,46,2025-02-06,Atraso,Problema pessoal,24,Não
+100,50,2025-02-06,Falta,Consulta/exame médico,,Sim
+101,6,2025-02-07,Atraso,Trânsito,21,Não
+102,27,2025-02-07,Falta,Falta injustificada,,Não
+103,37,2025-02-07,Atraso,Trânsito,32,Não
+104,40,2025-02-07,Atraso,Transporte público,29,Não
+105,6,2025-02-08,Atraso,Transporte público,22,Não
+106,24,2025-02-08,Atraso,Problema pessoal,14,Não
+107,15,2025-02-10,Atraso,Trânsito,12,Não
+108,16,2025-02-10,Atraso,Trânsito,71,Não
+109,38,2025-02-10,Atraso,Chuva/alagamento,10,Sim
+110,22,2025-02-11,Falta,Falta injustificada,,Não
+111,33,2025-02-11,Atraso,Trânsito,19,Não
+112,14,2025-02-12,Atraso,Problema pessoal,23,Não
+113,30,2025-02-12,Atraso,Trânsito,33,Não
+114,6,2025-02-13,Atraso,Transporte público,39,Não
+115,15,2025-02-13,Atraso,Transporte público,27,Não
+116,27,2025-02-13,Atraso,Chuva/alagamento,30,Sim
+117,30,2025-02-13,Falta,Falta injustificada,,Não
+118,15,2025-02-14,Falta,Atestado médico,,Sim
+119,16,2025-02-14,Falta,Falta injustificada,,Não
+120,15,2025-02-15,Atraso,Trânsito,43,Não
+121,17,2025-02-15,Atraso,Transporte público,18,Não
+122,27,2025-02-15,Atraso,Chuva/alagamento,16,Sim
+123,40,2025-02-15,Atraso,Trânsito,44,Não
+124,4,2025-02-17,Atraso,Trânsito,14,Não
+125,38,2025-02-17,Atraso,Chuva/alagamento,19,Sim
+126,28,2025-02-18,Atraso,Transporte público,22,Não
+127,39,2025-02-18,Falta,Falta injustificada,,Não
+128,10,2025-02-19,Atraso,Trânsito,21,Não
+129,26,2025-02-19,Atraso,Trânsito,10,Não
+130,6,2025-02-20,Falta,Atestado médico,,Sim
+131,16,2025-02-20,Atraso,Chuva/alagamento,31,Sim
+132,31,2025-02-20,Falta,Problema familiar,,Não
+133,38,2025-02-20,Atraso,Transporte público,18,Não
+134,18,2025-02-21,Atraso,Chuva/alagamento,14,Sim
+135,19,2025-02-21,Falta,Falta injustificada,,Não
+136,20,2025-02-21,Atraso,Transporte público,11,Não
+137,24,2025-02-21,Atraso,Chuva/alagamento,41,Sim
+138,37,2025-02-22,Atraso,Trânsito,12,Não
+139,6,2025-02-24,Atraso,Trânsito,64,Não
+140,19,2025-02-24,Falta,Atestado médico,,Sim
+141,31,2025-02-24,Atraso,Transporte público,23,Não
+142,48,2025-02-24,Atraso,Trânsito,13,Não
+143,49,2025-02-24,Atraso,Chuva/alagamento,56,Sim
+144,15,2025-02-25,Atraso,Transporte público,21,Não
+145,19,2025-02-25,Atraso,Trânsito,10,Não
+146,29,2025-02-25,Falta,Atestado médico,,Sim
+147,32,2025-02-25,Atraso,Trânsito,12,Não
+148,37,2025-02-25,Atraso,Chuva/alagamento,29,Sim
+149,44,2025-02-25,Atraso,Trânsito,11,Não
+150,48,2025-02-25,Atraso,Transporte público,13,Não
+151,22,2025-02-26,Atraso,Transporte público,52,Não
+152,29,2025-02-26,Atraso,Transporte público,18,Não
+153,4,2025-02-27,Falta,Consulta/exame médico,,Sim
+154,11,2025-02-27,Atraso,Transporte público,36,Não
+155,20,2025-02-27,Falta,Atestado médico,,Sim
+156,44,2025-02-27,Atraso,Chuva/alagamento,30,Sim
+157,4,2025-02-28,Atraso,Trânsito,129,Não
+158,5,2025-02-28,Atraso,Trânsito,13,Não
+159,7,2025-02-28,Atraso,Chuva/alagamento,32,Sim
+160,14,2025-02-28,Atraso,Transporte público,66,Não
+161,20,2025-02-28,Falta,Atestado médico,,Sim
+162,27,2025-02-28,Atraso,Chuva/alagamento,22,Sim
+163,34,2025-02-28,Falta,Atestado médico,,Sim
+164,38,2025-02-28,Atraso,Transporte público,65,Não
+165,48,2025-02-28,Atraso,Problema pessoal,20,Não
+166,29,2025-03-01,Falta,Falta injustificada,,Não
+167,43,2025-03-01,Atraso,Trânsito,14,Não
+168,6,2025-03-03,Atraso,Chuva/alagamento,20,Sim
+169,20,2025-03-03,Atraso,Chuva/alagamento,30,Sim
+170,13,2025-03-04,Atraso,Trânsito,17,Não
+171,24,2025-03-04,Atraso,Chuva/alagamento,52,Sim
+172,44,2025-03-04,Falta,Falta injustificada,,Não
+173,3,2025-03-05,Falta,Atestado médico,,Sim
+174,27,2025-03-05,Falta,Atestado médico,,Sim
+175,41,2025-03-05,Falta,Atestado médico,,Sim
+176,46,2025-03-05,Atraso,Trânsito,24,Não
+177,49,2025-03-05,Atraso,Transporte público,19,Não
+178,5,2025-03-06,Atraso,Problema pessoal,30,Não
+179,8,2025-03-06,Falta,Falta injustificada,,Não
+180,20,2025-03-06,Atraso,Trânsito,79,Não
+181,44,2025-03-06,Atraso,Chuva/alagamento,10,Sim
+182,27,2025-03-07,Atraso,Trânsito,63,Não
+183,29,2025-03-07,Falta,Atestado médico,,Sim
+184,40,2025-03-07,Falta,Falta injustificada,,Não
+185,41,2025-03-07,Atraso,Chuva/alagamento,79,Sim
+186,49,2025-03-07,Falta,Problema familiar,,Não
+187,1,2025-03-08,Falta,Problema familiar,,Não
+188,6,2025-03-10,Atraso,Trânsito,29,Não
+189,9,2025-03-10,Falta,Problema familiar,,Não
+190,14,2025-03-11,Falta,Falta injustificada,,Não
+191,42,2025-03-11,Atraso,Transporte público,34,Não
+192,12,2025-03-12,Falta,Atestado médico,,Sim
+193,15,2025-03-12,Atraso,Trânsito,61,Não
+194,27,2025-03-12,Atraso,Chuva/alagamento,23,Sim
+195,38,2025-03-12,Falta,Atestado médico,,Sim
+196,11,2025-03-13,Atraso,Problema pessoal,21,Não
+197,15,2025-03-13,Atraso,Trânsito,12,Não
+198,20,2025-03-13,Atraso,Trânsito,28,Não
+199,46,2025-03-13,Atraso,Chuva/alagamento,49,Sim
+200,2,2025-03-15,Falta,Atestado médico,,Sim
+201,3,2025-03-15,Atraso,Chuva/alagamento,29,Sim
+202,11,2025-03-15,Atraso,Problema pessoal,11,Não
+203,15,2025-03-15,Atraso,Trânsito,30,Não
+204,16,2025-03-15,Atraso,Transporte público,58,Não
+205,22,2025-03-15,Falta,Falta injustificada,,Não
+206,43,2025-03-15,Atraso,Trânsito,51,Não
+207,44,2025-03-15,Atraso,Trânsito,19,Não
+208,16,2025-03-17,Atraso,Transporte público,76,Não
+209,28,2025-03-17,Atraso,Trânsito,19,Não
+210,38,2025-03-17,Falta,Problema familiar,,Não
+211,11,2025-03-18,Falta,Falta injustificada,,Não
+212,14,2025-03-18,Atraso,Trânsito,15,Não
+213,31,2025-03-18,Falta,Falta injustificada,,Não
+214,33,2025-03-18,Atraso,Transporte público,89,Não
+215,20,2025-03-19,Falta,Problema familiar,,Não
+216,27,2025-03-19,Atraso,Problema pessoal,14,Não
+217,29,2025-03-19,Atraso,Chuva/alagamento,21,Sim
+218,11,2025-03-20,Atraso,Trânsito,17,Não
+219,14,2025-03-20,Falta,Falta injustificada,,Não
+220,17,2025-03-20,Atraso,Chuva/alagamento,32,Sim
+221,44,2025-03-20,Falta,Consulta/exame médico,,Sim
+222,20,2025-03-21,Falta,Problema familiar,,Não
+223,33,2025-03-21,Atraso,Chuva/alagamento,13,Sim
+224,39,2025-03-21,Falta,Atestado médico,,Sim
+225,21,2025-03-22,Atraso,Chuva/alagamento,17,Sim
+226,6,2025-03-24,Falta,Consulta/exame médico,,Sim
+227,44,2025-03-24,Falta,Atestado médico,,Sim
+228,29,2025-03-25,Atraso,Transporte público,11,Não
+229,9,2025-03-26,Atraso,Trânsito,27,Não
+230,20,2025-03-26,Falta,Atestado médico,,Sim
+231,42,2025-03-26,Atraso,Chuva/alagamento,11,Sim
+232,44,2025-03-26,Atraso,Transporte público,14,Não
+233,20,2025-03-27,Atraso,Trânsito,35,Não
+234,24,2025-03-27,Falta,Falta injustificada,,Não
+235,32,2025-03-27,Atraso,Trânsito,54,Não
+236,1,2025-03-28,Atraso,Trânsito,17,Não
+237,28,2025-03-28,Atraso,Problema pessoal,16,Não
+238,44,2025-03-28,Atraso,Transporte público,25,Não
+239,15,2025-03-29,Atraso,Trânsito,24,Não
+240,32,2025-03-29,Atraso,Trânsito,28,Não
+241,46,2025-03-29,Atraso,Transporte público,54,Não
+242,4,2025-03-31,Atraso,Trânsito,42,Não
+243,21,2025-03-31,Atraso,Chuva/alagamento,11,Sim
+244,27,2025-03-31,Falta,Atestado médico,,Sim
+245,44,2025-03-31,Atraso,Trânsito,10,Não
+246,48,2025-03-31,Atraso,Problema pessoal,47,Não
+247,12,2025-04-01,Falta,Atestado médico,,Sim
+248,4,2025-04-02,Atraso,Transporte público,28,Não
+249,11,2025-04-02,Atraso,Trânsito,22,Não
+250,13,2025-04-02,Falta,Consulta/exame médico,,Sim
+251,37,2025-04-02,Falta,Problema familiar,,Não
+252,44,2025-04-02,Atraso,Trânsito,27,Não
+253,6,2025-04-03,Falta,Atestado médico,,Sim
+254,20,2025-04-03,Falta,Problema familiar,,Não
+255,10,2025-04-04,Atraso,Problema pessoal,23,Não
+256,15,2025-04-04,Atraso,Problema pessoal,12,Não
+257,7,2025-04-07,Falta,Falta injustificada,,Não
+258,10,2025-04-09,Atraso,Transporte público,11,Não
+259,30,2025-04-09,Atraso,Trânsito,14,Não
+260,44,2025-04-09,Atraso,Trânsito,24,Não
+261,26,2025-04-11,Falta,Atestado médico,,Sim
+262,36,2025-04-11,Atraso,Trânsito,15,Não
+263,15,2025-04-12,Falta,Atestado médico,,Sim
+264,1,2025-04-14,Atraso,Trânsito,37,Não
+265,6,2025-04-14,Atraso,Trânsito,22,Não
+266,11,2025-04-14,Atraso,Trânsito,43,Não
+267,29,2025-04-14,Atraso,Transporte público,20,Não
+268,33,2025-04-14,Atraso,Trânsito,18,Não
+269,37,2025-04-14,Atraso,Problema pessoal,40,Não
+270,41,2025-04-14,Atraso,Problema pessoal,17,Não
+271,44,2025-04-16,Falta,Atestado médico,,Sim
+272,5,2025-04-17,Atraso,Transporte público,23,Não
+273,33,2025-04-17,Atraso,Problema pessoal,14,Não
+274,39,2025-04-17,Atraso,Trânsito,64,Não
+275,6,2025-04-18,Atraso,Trânsito,11,Não
+276,11,2025-04-18,Atraso,Problema pessoal,11,Não
+277,50,2025-04-18,Falta,Atestado médico,,Sim
+278,28,2025-04-19,Falta,Atestado médico,,Sim
+279,29,2025-04-19,Atraso,Trânsito,24,Não
+280,11,2025-04-21,Atraso,Problema pessoal,66,Não
+281,15,2025-04-21,Atraso,Trânsito,36,Não
+282,6,2025-04-22,Falta,Atestado médico,,Sim
+283,9,2025-04-22,Atraso,Transporte público,47,Não
+284,34,2025-04-22,Atraso,Trânsito,27,Não
+285,11,2025-04-23,Atraso,Transporte público,63,Não
+286,41,2025-04-23,Falta,Falta injustificada,,Não
+287,43,2025-04-23,Atraso,Problema pessoal,24,Não
+288,6,2025-04-24,Atraso,Problema pessoal,21,Não
+289,24,2025-04-24,Atraso,Trânsito,11,Não
+290,30,2025-04-24,Atraso,Transporte público,29,Não
+291,38,2025-04-24,Atraso,Trânsito,38,Não
+292,30,2025-04-25,Atraso,Trânsito,59,Não
+293,50,2025-04-25,Falta,Atestado médico,,Sim
+294,6,2025-04-26,Atraso,Trânsito,39,Não
+295,24,2025-04-26,Atraso,Chuva/alagamento,28,Sim
+296,26,2025-04-26,Atraso,Trânsito,131,Não
+297,41,2025-04-26,Atraso,Trânsito,54,Não
+298,33,2025-04-28,Falta,Atestado médico,,Sim
+299,36,2025-04-28,Atraso,Transporte público,40,Não
+300,8,2025-04-29,Atraso,Trânsito,28,Não
+301,37,2025-04-29,Atraso,Problema pessoal,12,Não
+302,40,2025-04-29,Falta,Atestado médico,,Sim
+303,6,2025-04-30,Atraso,Trânsito,12,Não
+304,9,2025-04-30,Falta,Atestado médico,,Sim
+305,11,2025-04-30,Atraso,Trânsito,26,Não
+306,20,2025-04-30,Atraso,Chuva/alagamento,19,Sim
+307,24,2025-04-30,Falta,Problema familiar,,Não
+308,29,2025-04-30,Atraso,Problema pessoal,36,Não
+309,20,2025-05-01,Atraso,Trânsito,18,Não
+310,2,2025-05-02,Atraso,Transporte público,48,Não
+311,21,2025-05-02,Falta,Consulta/exame médico,,Sim
+312,23,2025-05-02,Atraso,Problema pessoal,14,Não
+313,38,2025-05-02,Falta,Consulta/exame médico,,Sim
+314,44,2025-05-02,Atraso,Transporte público,51,Não
+315,52,2025-05-02,Falta,Falta injustificada,,Não
+316,2,2025-05-03,Atraso,Problema pessoal,26,Não
+317,15,2025-05-03,Atraso,Problema pessoal,54,Não
+318,24,2025-05-03,Atraso,Trânsito,33,Não
+319,46,2025-05-05,Atraso,Trânsito,13,Não
+320,7,2025-05-06,Falta,Atestado médico,,Sim
+321,4,2025-05-07,Falta,Atestado médico,,Sim
+322,29,2025-05-08,Atraso,Trânsito,19,Não
+323,23,2025-05-09,Atraso,Problema pessoal,16,Não
+324,30,2025-05-09,Atraso,Trânsito,17,Não
+325,25,2025-05-10,Atraso,Transporte público,19,Não
+326,11,2025-05-12,Atraso,Transporte público,21,Não
+327,11,2025-05-13,Atraso,Trânsito,40,Não
+328,21,2025-05-13,Atraso,Trânsito,40,Não
+329,1,2025-05-14,Atraso,Transporte público,28,Não
+330,6,2025-05-14,Atraso,Problema pessoal,74,Não
+331,5,2025-05-15,Falta,Falta injustificada,,Não
+332,19,2025-05-15,Atraso,Problema pessoal,15,Não
+333,6,2025-05-16,Falta,Atestado médico,,Sim
+334,6,2025-05-17,Falta,Falta injustificada,,Não
+335,41,2025-05-17,Atraso,Trânsito,51,Não
+336,6,2025-05-19,Atraso,Trânsito,58,Não
+337,33,2025-05-19,Atraso,Transporte público,39,Não
+338,48,2025-05-19,Atraso,Trânsito,10,Não
+339,49,2025-05-19,Atraso,Problema pessoal,28,Não
+340,11,2025-05-21,Atraso,Trânsito,10,Não
+341,21,2025-05-21,Atraso,Problema pessoal,12,Não
+342,9,2025-05-22,Falta,Atestado médico,,Sim
+343,15,2025-05-22,Atraso,Chuva/alagamento,43,Sim
+344,44,2025-05-22,Falta,Atestado médico,,Sim
+345,32,2025-05-23,Atraso,Trânsito,12,Não
+346,30,2025-05-24,Falta,Falta injustificada,,Não
+347,40,2025-05-24,Atraso,Trânsito,13,Não
+348,46,2025-05-24,Atraso,Trânsito,12,Não
+349,31,2025-05-26,Falta,Problema familiar,,Não
+350,6,2025-05-27,Falta,Atestado médico,,Sim
+351,32,2025-05-27,Atraso,Problema pessoal,19,Não
+352,49,2025-05-27,Atraso,Trânsito,83,Não
+353,6,2025-05-28,Falta,Falta injustificada,,Não
+354,31,2025-05-28,Atraso,Transporte público,17,Não
+355,39,2025-05-28,Atraso,Problema pessoal,13,Não
+356,47,2025-05-28,Atraso,Transporte público,36,Não
+357,38,2025-05-29,Atraso,Problema pessoal,10,Não
+358,39,2025-05-29,Falta,Atestado médico,,Sim
+359,11,2025-05-31,Falta,Falta injustificada,,Não
+360,20,2025-06-03,Atraso,Transporte público,64,Não
+361,31,2025-06-03,Atraso,Trânsito,57,Não
+362,27,2025-06-04,Atraso,Trânsito,25,Não
+363,38,2025-06-04,Falta,Atestado médico,,Sim
+364,7,2025-06-05,Falta,Falta injustificada,,Não
+365,40,2025-06-05,Atraso,Transporte público,30,Não
+366,28,2025-06-06,Falta,Atestado médico,,Sim
+367,5,2025-06-07,Falta,Atestado médico,,Sim
+368,26,2025-06-07,Atraso,Trânsito,12,Não
+369,29,2025-06-09,Falta,Atestado médico,,Sim
+370,21,2025-06-10,Atraso,Transporte público,18,Não
+371,33,2025-06-10,Atraso,Trânsito,41,Não
+372,7,2025-06-11,Atraso,Transporte público,28,Não
+373,8,2025-06-11,Atraso,Transporte público,29,Não
+374,15,2025-06-11,Atraso,Transporte público,31,Não
+375,30,2025-06-12,Falta,Falta injustificada,,Não
+376,15,2025-06-13,Falta,Atestado médico,,Sim
+377,16,2025-06-13,Falta,Problema familiar,,Não
+378,33,2025-06-14,Falta,Consulta/exame médico,,Sim
+379,27,2025-06-16,Falta,Atestado médico,,Sim
+380,44,2025-06-16,Falta,Atestado médico,,Sim
+381,15,2025-06-17,Atraso,Trânsito,23,Não
+382,30,2025-06-17,Atraso,Transporte público,15,Não
+383,33,2025-06-17,Falta,Falta injustificada,,Não
+384,1,2025-06-18,Atraso,Transporte público,25,Não
+385,10,2025-06-18,Falta,Atestado médico,,Sim
+386,20,2025-06-18,Atraso,Trânsito,21,Não
+387,32,2025-06-18,Atraso,Transporte público,23,Não
+388,37,2025-06-19,Atraso,Chuva/alagamento,10,Sim
+389,13,2025-06-20,Atraso,Chuva/alagamento,10,Sim
+390,41,2025-06-20,Atraso,Trânsito,12,Não
+391,7,2025-06-21,Atraso,Problema pessoal,33,Não
+392,1,2025-06-23,Atraso,Transporte público,10,Não
+393,4,2025-06-23,Falta,Falta injustificada,,Não
+394,29,2025-06-23,Falta,Atestado médico,,Sim
+395,42,2025-06-23,Atraso,Transporte público,22,Não
+396,16,2025-06-25,Atraso,Trânsito,10,Não
+397,29,2025-06-25,Falta,Atestado médico,,Sim
+398,33,2025-06-25,Atraso,Problema pessoal,15,Não
+399,20,2025-06-26,Atraso,Trânsito,15,Não
+400,23,2025-06-26,Atraso,Problema pessoal,11,Não
+401,32,2025-06-26,Atraso,Problema pessoal,16,Não
+402,52,2025-06-26,Atraso,Problema pessoal,12,Não
+403,11,2025-06-27,Atraso,Transporte público,11,Não
+404,27,2025-06-27,Atraso,Transporte público,19,Não
+405,32,2025-06-27,Falta,Atestado médico,,Sim
+406,40,2025-06-27,Falta,Atestado médico,,Sim
+407,53,2025-06-27,Falta,Atestado médico,,Sim
+408,27,2025-06-28,Falta,Falta injustificada,,Não
+409,32,2025-06-28,Atraso,Trânsito,50,Não
+410,33,2025-06-28,Atraso,Chuva/alagamento,17,Sim
+411,6,2025-06-30,Atraso,Chuva/alagamento,15,Sim
+412,16,2025-06-30,Falta,Problema familiar,,Não
+413,30,2025-06-30,Atraso,Transporte público,83,Não
+414,46,2025-06-30,Atraso,Problema pessoal,25,Não
+415,47,2025-06-30,Atraso,Problema pessoal,48,Não
+416,32,2025-07-01,Falta,Falta injustificada,,Não
+417,5,2025-07-02,Falta,Falta injustificada,,Não
+418,22,2025-07-02,Falta,Atestado médico,,Sim
+419,44,2025-07-02,Atraso,Trânsito,22,Não
+420,19,2025-07-03,Falta,Atestado médico,,Sim
+421,33,2025-07-03,Falta,Atestado médico,,Sim
+422,36,2025-07-04,Atraso,Trânsito,22,Não
+423,45,2025-07-04,Atraso,Chuva/alagamento,11,Sim
+424,43,2025-07-05,Atraso,Problema pessoal,24,Não
+425,45,2025-07-05,Falta,Atestado médico,,Sim
+426,39,2025-07-07,Atraso,Trânsito,26,Não
+427,8,2025-07-08,Atraso,Trânsito,27,Não
+428,11,2025-07-08,Atraso,Trânsito,25,Não
+429,22,2025-07-08,Atraso,Trânsito,95,Não
+430,6,2025-07-09,Atraso,Trânsito,107,Não
+431,27,2025-07-09,Falta,Atestado médico,,Sim
+432,28,2025-07-09,Falta,Atestado médico,,Sim
+433,20,2025-07-10,Falta,Atestado médico,,Sim
+434,24,2025-07-10,Atraso,Transporte público,13,Não
+435,29,2025-07-10,Atraso,Trânsito,12,Não
+436,12,2025-07-11,Atraso,Trânsito,65,Não
+437,16,2025-07-11,Atraso,Transporte público,26,Não
+438,20,2025-07-11,Atraso,Trânsito,14,Não
+439,54,2025-07-12,Falta,Atestado médico,,Sim
+440,4,2025-07-14,Falta,Falta injustificada,,Não
+441,11,2025-07-14,Atraso,Trânsito,16,Não
+442,24,2025-07-14,Atraso,Problema pessoal,11,Não
+443,38,2025-07-14,Falta,Problema familiar,,Não
+444,22,2025-07-15,Falta,Falta injustificada,,Não
+445,37,2025-07-15,Falta,Falta injustificada,,Não
+446,41,2025-07-15,Falta,Atestado médico,,Sim
+447,6,2025-07-16,Falta,Problema familiar,,Não
+448,10,2025-07-16,Falta,Atestado médico,,Sim
+449,22,2025-07-16,Falta,Atestado médico,,Sim
+450,11,2025-07-17,Falta,Atestado médico,,Sim
+451,43,2025-07-17,Falta,Atestado médico,,Sim
+452,48,2025-07-17,Atraso,Trânsito,17,Não
+453,9,2025-07-18,Falta,Consulta/exame médico,,Sim
+454,47,2025-07-18,Falta,Falta injustificada,,Não
+455,9,2025-07-19,Falta,Atestado médico,,Sim
+456,30,2025-07-22,Atraso,Trânsito,20,Não
+457,33,2025-07-22,Falta,Atestado médico,,Sim
+458,47,2025-07-22,Atraso,Problema pessoal,13,Não
+459,22,2025-07-24,Atraso,Transporte público,35,Não
+460,40,2025-07-24,Falta,Consulta/exame médico,,Sim
+461,1,2025-07-25,Falta,Problema familiar,,Não
+462,25,2025-07-25,Falta,Consulta/exame médico,,Sim
+463,52,2025-07-25,Falta,Atestado médico,,Sim
+464,2,2025-07-26,Atraso,Transporte público,35,Não
+465,8,2025-07-26,Atraso,Chuva/alagamento,48,Sim
+466,11,2025-07-26,Falta,Problema familiar,,Não
+467,53,2025-07-26,Atraso,Chuva/alagamento,37,Sim
+468,1,2025-07-28,Atraso,Transporte público,38,Não
+469,27,2025-07-28,Atraso,Trânsito,10,Não
+470,48,2025-07-28,Falta,Atestado médico,,Sim
+471,15,2025-07-29,Atraso,Trânsito,46,Não
+472,27,2025-07-29,Atraso,Trânsito,47,Não
+473,6,2025-07-30,Atraso,Trânsito,22,Não
+474,15,2025-07-30,Atraso,Transporte público,24,Não
+475,27,2025-07-30,Falta,Atestado médico,,Sim
+476,41,2025-07-30,Atraso,Problema pessoal,27,Não
+477,30,2025-08-01,Falta,Consulta/exame médico,,Sim
+478,1,2025-08-02,Atraso,Transporte público,19,Não
+479,3,2025-08-02,Atraso,Trânsito,21,Não
+480,8,2025-08-02,Atraso,Transporte público,15,Não
+481,15,2025-08-02,Falta,Atestado médico,,Sim
+482,4,2025-08-04,Atraso,Chuva/alagamento,14,Sim
+483,22,2025-08-04,Atraso,Trânsito,33,Não
+484,54,2025-08-04,Falta,Atestado médico,,Sim
+485,16,2025-08-05,Falta,Falta injustificada,,Não
+486,22,2025-08-05,Atraso,Problema pessoal,50,Não
+487,38,2025-08-05,Falta,Atestado médico,,Sim
+488,39,2025-08-05,Atraso,Transporte público,12,Não
+489,25,2025-08-06,Atraso,Transporte público,33,Não
+490,27,2025-08-06,Falta,Atestado médico,,Sim
+491,7,2025-08-07,Atraso,Transporte público,14,Não
+492,1,2025-08-08,Atraso,Trânsito,69,Não
+493,1,2025-08-09,Atraso,Problema pessoal,29,Não
+494,37,2025-08-09,Falta,Atestado médico,,Sim
+495,1,2025-08-11,Falta,Problema familiar,,Não
+496,6,2025-08-12,Falta,Falta injustificada,,Não
+497,44,2025-08-12,Falta,Problema familiar,,Não
+498,1,2025-08-13,Atraso,Problema pessoal,29,Não
+499,2,2025-08-13,Falta,Atestado médico,,Sim
+500,5,2025-08-13,Atraso,Trânsito,18,Não
+501,6,2025-08-13,Falta,Consulta/exame médico,,Sim
+502,7,2025-08-13,Atraso,Transporte público,43,Não
+503,13,2025-08-13,Atraso,Trânsito,34,Não
+504,19,2025-08-13,Atraso,Transporte público,13,Não
+505,50,2025-08-13,Falta,Falta injustificada,,Não
+506,6,2025-08-15,Falta,Problema familiar,,Não
+507,32,2025-08-15,Falta,Falta injustificada,,Não
+508,40,2025-08-16,Atraso,Problema pessoal,33,Não
+509,4,2025-08-18,Atraso,Transporte público,13,Não
+510,31,2025-08-18,Atraso,Trânsito,27,Não
+511,9,2025-08-20,Atraso,Trânsito,11,Não
+512,12,2025-08-20,Atraso,Chuva/alagamento,16,Sim
+513,19,2025-08-20,Falta,Consulta/exame médico,,Sim
+514,40,2025-08-20,Falta,Problema familiar,,Não
+515,50,2025-08-20,Atraso,Trânsito,17,Não
+516,19,2025-08-21,Atraso,Trânsito,25,Não
+517,37,2025-08-22,Atraso,Trânsito,14,Não
+518,53,2025-08-22,Atraso,Trânsito,10,Não
+519,8,2025-08-23,Atraso,Problema pessoal,49,Não
+520,32,2025-08-26,Atraso,Trânsito,50,Não
+521,52,2025-08-26,Atraso,Transporte público,12,Não
+522,6,2025-08-27,Atraso,Problema pessoal,18,Não
+523,15,2025-08-27,Atraso,Problema pessoal,59,Não
+524,15,2025-08-28,Atraso,Problema pessoal,36,Não
+525,25,2025-08-28,Atraso,Problema pessoal,14,Não
+526,36,2025-08-28,Atraso,Trânsito,81,Não
+527,11,2025-08-29,Atraso,Problema pessoal,10,Não
+528,15,2025-08-29,Atraso,Trânsito,19,Não
+529,18,2025-08-29,Falta,Falta injustificada,,Não
+530,28,2025-08-29,Atraso,Transporte público,11,Não
+531,32,2025-08-29,Atraso,Transporte público,17,Não
+532,40,2025-08-29,Falta,Atestado médico,,Sim
+533,44,2025-08-29,Atraso,Trânsito,23,Não
+534,22,2025-08-30,Falta,Problema familiar,,Não
+535,3,2025-09-01,Falta,Atestado médico,,Sim
+536,41,2025-09-01,Atraso,Trânsito,13,Não
+537,44,2025-09-02,Atraso,Trânsito,20,Não
+538,55,2025-09-02,Atraso,Transporte público,19,Não
+539,12,2025-09-03,Atraso,Trânsito,31,Não
+540,20,2025-09-03,Falta,Falta injustificada,,Não
+541,33,2025-09-03,Atraso,Trânsito,15,Não
+542,42,2025-09-03,Atraso,Trânsito,54,Não
+543,1,2025-09-04,Atraso,Problema pessoal,13,Não
+544,3,2025-09-04,Atraso,Transporte público,14,Não
+545,14,2025-09-04,Atraso,Trânsito,16,Não
+546,18,2025-09-04,Atraso,Chuva/alagamento,21,Sim
+547,41,2025-09-04,Atraso,Trânsito,32,Não
+548,11,2025-09-05,Atraso,Trânsito,12,Não
+549,15,2025-09-05,Atraso,Transporte público,11,Não
+550,31,2025-09-05,Atraso,Problema pessoal,94,Não
+551,33,2025-09-05,Atraso,Trânsito,14,Não
+552,39,2025-09-05,Falta,Problema familiar,,Não
+553,40,2025-09-05,Falta,Atestado médico,,Sim
+554,50,2025-09-05,Atraso,Trânsito,53,Não
+555,22,2025-09-08,Atraso,Trânsito,21,Não
+556,10,2025-09-09,Atraso,Trânsito,33,Não
+557,22,2025-09-09,Falta,Falta injustificada,,Não
+558,27,2025-09-09,Atraso,Trânsito,50,Não
+559,32,2025-09-09,Atraso,Transporte público,21,Não
+560,21,2025-09-10,Falta,Atestado médico,,Sim
+561,40,2025-09-10,Atraso,Problema pessoal,61,Não
+562,54,2025-09-10,Atraso,Trânsito,17,Não
+563,3,2025-09-12,Atraso,Trânsito,25,Não
+564,11,2025-09-12,Atraso,Trânsito,43,Não
+565,22,2025-09-12,Falta,Atestado médico,,Sim
+566,30,2025-09-12,Atraso,Trânsito,32,Não
+567,33,2025-09-12,Atraso,Trânsito,20,Não
+568,16,2025-09-13,Atraso,Problema pessoal,51,Não
+569,3,2025-09-15,Falta,Consulta/exame médico,,Sim
+570,6,2025-09-15,Atraso,Trânsito,35,Não
+571,27,2025-09-15,Atraso,Trânsito,63,Não
+572,40,2025-09-15,Atraso,Problema pessoal,19,Não
+573,15,2025-09-16,Atraso,Transporte público,25,Não
+574,20,2025-09-16,Falta,Falta injustificada,,Não
+575,52,2025-09-16,Atraso,Transporte público,59,Não
+576,22,2025-09-18,Atraso,Trânsito,49,Não
+577,48,2025-09-18,Falta,Atestado médico,,Sim
+578,11,2025-09-19,Atraso,Trânsito,27,Não
+579,29,2025-09-19,Atraso,Trânsito,19,Não
+580,1,2025-09-20,Falta,Falta injustificada,,Não
+581,6,2025-09-20,Falta,Atestado médico,,Sim
+582,8,2025-09-20,Falta,Falta injustificada,,Não
+583,39,2025-09-20,Falta,Problema familiar,,Não
+584,41,2025-09-20,Atraso,Problema pessoal,43,Não
+585,16,2025-09-22,Atraso,Transporte público,10,Não
+586,6,2025-09-23,Atraso,Trânsito,16,Não
+587,10,2025-09-23,Atraso,Transporte público,11,Não
+588,15,2025-09-23,Atraso,Trânsito,11,Não
+589,30,2025-09-23,Atraso,Trânsito,40,Não
+590,17,2025-09-24,Falta,Atestado médico,,Sim
+591,20,2025-09-24,Falta,Atestado médico,,Sim
+592,21,2025-09-24,Falta,Atestado médico,,Sim
+593,39,2025-09-24,Falta,Problema familiar,,Não
+594,48,2025-09-24,Atraso,Problema pessoal,61,Não
+595,49,2025-09-24,Atraso,Transporte público,13,Não
+596,1,2025-09-25,Falta,Atestado médico,,Sim
+597,6,2025-09-25,Falta,Falta injustificada,,Não
+598,15,2025-09-25,Atraso,Trânsito,64,Não
+599,29,2025-09-25,Atraso,Problema pessoal,14,Não
+600,3,2025-09-26,Atraso,Problema pessoal,12,Não
+601,6,2025-09-26,Atraso,Trânsito,33,Não
+602,16,2025-09-26,Atraso,Trânsito,58,Não
+603,29,2025-09-26,Falta,Falta injustificada,,Não
+604,37,2025-09-26,Atraso,Trânsito,12,Não
+605,1,2025-09-27,Falta,Atestado médico,,Sim
+606,6,2025-09-29,Falta,Atestado médico,,Sim
+607,15,2025-09-29,Atraso,Trânsito,43,Não
+608,16,2025-09-29,Atraso,Problema pessoal,56,Não
+609,32,2025-09-29,Falta,Consulta/exame médico,,Sim
+610,36,2025-09-29,Atraso,Problema pessoal,47,Não
+611,41,2025-09-29,Falta,Consulta/exame médico,,Sim
+612,42,2025-09-29,Falta,Consulta/exame médico,,Sim
+613,49,2025-09-29,Falta,Atestado médico,,Sim
+614,3,2025-09-30,Atraso,Trânsito,25,Não
+615,32,2025-09-30,Atraso,Trânsito,14,Não
+616,4,2025-10-01,Atraso,Transporte público,11,Não
+617,5,2025-10-01,Atraso,Trânsito,22,Não
+618,5,2025-10-03,Falta,Atestado médico,,Sim
+619,23,2025-10-03,Atraso,Trânsito,32,Não
+620,6,2025-10-04,Falta,Falta injustificada,,Não
+621,11,2025-10-04,Falta,Atestado médico,,Sim
+622,12,2025-10-04,Atraso,Problema pessoal,21,Não
+623,27,2025-10-04,Falta,Atestado médico,,Sim
+624,38,2025-10-04,Atraso,Problema pessoal,23,Não
+625,49,2025-10-04,Atraso,Trânsito,48,Não
+626,11,2025-10-06,Atraso,Problema pessoal,17,Não
+627,15,2025-10-06,Atraso,Chuva/alagamento,16,Sim
+628,27,2025-10-07,Atraso,Trânsito,44,Não
+629,40,2025-10-07,Falta,Falta injustificada,,Não
+630,31,2025-10-08,Falta,Consulta/exame médico,,Sim
+631,38,2025-10-08,Atraso,Trânsito,17,Não
+632,52,2025-10-08,Atraso,Trânsito,38,Não
+633,2,2025-10-09,Atraso,Transporte público,53,Não
+634,4,2025-10-09,Atraso,Trânsito,17,Não
+635,11,2025-10-09,Atraso,Chuva/alagamento,29,Sim
+636,48,2025-10-09,Atraso,Problema pessoal,29,Não
+637,54,2025-10-09,Atraso,Problema pessoal,49,Não
+638,6,2025-10-10,Atraso,Trânsito,16,Não
+639,18,2025-10-10,Falta,Problema familiar,,Não
+640,37,2025-10-10,Atraso,Problema pessoal,23,Não
+641,38,2025-10-10,Falta,Consulta/exame médico,,Sim
+642,7,2025-10-11,Falta,Atestado médico,,Sim
+643,19,2025-10-11,Atraso,Problema pessoal,32,Não
+644,37,2025-10-11,Falta,Falta injustificada,,Não
+645,38,2025-10-13,Falta,Falta injustificada,,Não
+646,44,2025-10-13,Atraso,Transporte público,22,Não
+647,8,2025-10-14,Falta,Atestado médico,,Sim
+648,30,2025-10-14,Falta,Atestado médico,,Sim
+649,54,2025-10-14,Atraso,Transporte público,14,Não
+650,16,2025-10-15,Atraso,Trânsito,36,Não
+651,20,2025-10-15,Atraso,Trânsito,17,Não
+652,54,2025-10-15,Atraso,Problema pessoal,13,Não
+653,38,2025-10-16,Atraso,Trânsito,20,Não
+654,7,2025-10-17,Atraso,Transporte público,37,Não
+655,11,2025-10-17,Falta,Consulta/exame médico,,Sim
+656,14,2025-10-17,Atraso,Chuva/alagamento,20,Sim
+657,21,2025-10-17,Atraso,Trânsito,49,Não
+658,24,2025-10-17,Atraso,Trânsito,56,Não
+659,49,2025-10-17,Atraso,Trânsito,34,Não
+660,34,2025-10-18,Atraso,Transporte público,16,Não
+661,44,2025-10-18,Atraso,Trânsito,18,Não
+662,55,2025-10-18,Falta,Atestado médico,,Sim
+663,6,2025-10-20,Atraso,Trânsito,17,Não
+664,19,2025-10-20,Falta,Falta injustificada,,Não
+665,27,2025-10-20,Falta,Atestado médico,,Sim
+666,32,2025-10-21,Atraso,Trânsito,13,Não
+667,3,2025-10-22,Atraso,Transporte público,26,Não
+668,44,2025-10-22,Atraso,Problema pessoal,62,Não
+669,48,2025-10-22,Atraso,Trânsito,20,Não
+670,36,2025-10-23,Atraso,Transporte público,16,Não
+671,49,2025-10-23,Atraso,Problema pessoal,16,Não
+672,23,2025-10-24,Falta,Falta injustificada,,Não
+673,11,2025-10-25,Atraso,Trânsito,16,Não
+674,29,2025-10-25,Falta,Consulta/exame médico,,Sim
+675,26,2025-10-28,Atraso,Transporte público,41,Não
+676,32,2025-10-28,Atraso,Transporte público,36,Não
+677,7,2025-10-29,Atraso,Trânsito,20,Não
+678,6,2025-10-31,Atraso,Trânsito,24,Não
+679,14,2025-11-01,Atraso,Trânsito,52,Não
+680,24,2025-11-01,Atraso,Problema pessoal,20,Não
+681,37,2025-11-01,Atraso,Trânsito,16,Não
+682,44,2025-11-01,Falta,Falta injustificada,,Não
+683,32,2025-11-03,Atraso,Problema pessoal,20,Não
+684,39,2025-11-03,Atraso,Transporte público,13,Não
+685,17,2025-11-04,Atraso,Trânsito,10,Não
+686,32,2025-11-04,Falta,Atestado médico,,Sim
+687,47,2025-11-04,Atraso,Transporte público,32,Não
+688,3,2025-11-05,Atraso,Chuva/alagamento,71,Sim
+689,6,2025-11-05,Atraso,Problema pessoal,37,Não
+690,7,2025-11-05,Atraso,Problema pessoal,28,Não
+691,11,2025-11-05,Atraso,Trânsito,12,Não
+692,15,2025-11-05,Atraso,Trânsito,23,Não
+693,32,2025-11-05,Atraso,Transporte público,10,Não
+694,24,2025-11-06,Falta,Consulta/exame médico,,Sim
+695,35,2025-11-06,Falta,Problema familiar,,Não
+696,2,2025-11-07,Atraso,Chuva/alagamento,29,Sim
+697,47,2025-11-07,Falta,Atestado médico,,Sim
+698,6,2025-11-08,Falta,Atestado médico,,Sim
+699,8,2025-11-08,Atraso,Trânsito,12,Não
+700,36,2025-11-08,Atraso,Problema pessoal,15,Não
+701,14,2025-11-10,Atraso,Chuva/alagamento,13,Sim
+702,20,2025-11-11,Atraso,Chuva/alagamento,17,Sim
+703,27,2025-11-11,Falta,Problema familiar,,Não
+704,4,2025-11-12,Falta,Atestado médico,,Sim
+705,11,2025-11-12,Falta,Atestado médico,,Sim
+706,37,2025-11-12,Atraso,Chuva/alagamento,29,Sim
+707,20,2025-11-13,Atraso,Trânsito,15,Não
+708,3,2025-11-14,Falta,Atestado médico,,Sim
+709,6,2025-11-14,Atraso,Chuva/alagamento,10,Sim
+710,38,2025-11-14,Falta,Atestado médico,,Sim
+711,48,2025-11-14,Atraso,Chuva/alagamento,14,Sim
+712,50,2025-11-15,Atraso,Trânsito,31,Não
+713,52,2025-11-15,Falta,Atestado médico,,Sim
+714,11,2025-11-17,Falta,Falta injustificada,,Não
+715,19,2025-11-17,Atraso,Transporte público,16,Não
+716,28,2025-11-17,Atraso,Problema pessoal,18,Não
+717,41,2025-11-17,Atraso,Trânsito,31,Não
+718,50,2025-11-17,Atraso,Trânsito,11,Não
+719,21,2025-11-18,Atraso,Trânsito,15,Não
+720,3,2025-11-19,Falta,Atestado médico,,Sim
+721,6,2025-11-19,Atraso,Chuva/alagamento,74,Sim
+722,11,2025-11-19,Atraso,Problema pessoal,40,Não
+723,40,2025-11-19,Atraso,Transporte público,20,Não
+724,41,2025-11-19,Falta,Atestado médico,,Sim
+725,11,2025-11-21,Atraso,Chuva/alagamento,25,Sim
+726,29,2025-11-21,Falta,Problema familiar,,Não
+727,43,2025-11-21,Atraso,Trânsito,19,Não
+728,7,2025-11-22,Atraso,Trânsito,90,Não
+729,33,2025-11-22,Falta,Atestado médico,,Sim
+730,36,2025-11-22,Falta,Problema familiar,,Não
+731,5,2025-11-24,Falta,Falta injustificada,,Não
+732,20,2025-11-24,Falta,Problema familiar,,Não
+733,24,2025-11-24,Atraso,Trânsito,25,Não
+734,29,2025-11-24,Atraso,Trânsito,20,Não
+735,31,2025-11-24,Falta,Falta injustificada,,Não
+736,36,2025-11-24,Atraso,Chuva/alagamento,51,Sim
+737,9,2025-11-25,Atraso,Trânsito,25,Não
+738,4,2025-11-26,Falta,Problema familiar,,Não
+739,24,2025-11-26,Atraso,Transporte público,53,Não
+740,10,2025-11-27,Atraso,Trânsito,10,Não
+741,18,2025-11-27,Atraso,Chuva/alagamento,29,Sim
+742,27,2025-11-27,Atraso,Problema pessoal,37,Não
+743,6,2025-11-29,Atraso,Chuva/alagamento,18,Sim
+744,6,2025-12-01,Atraso,Chuva/alagamento,13,Sim
+745,7,2025-12-01,Falta,Consulta/exame médico,,Sim
+746,10,2025-12-01,Atraso,Trânsito,19,Não
+747,14,2025-12-01,Falta,Falta injustificada,,Não
+748,3,2025-12-02,Atraso,Trânsito,14,Não
+749,6,2025-12-02,Atraso,Transporte público,40,Não
+750,25,2025-12-02,Atraso,Trânsito,14,Não
+751,55,2025-12-02,Atraso,Problema pessoal,17,Não
+752,6,2025-12-03,Falta,Falta injustificada,,Não
+753,21,2025-12-03,Atraso,Trânsito,13,Não
+754,47,2025-12-03,Atraso,Chuva/alagamento,10,Sim
+755,6,2025-12-04,Falta,Atestado médico,,Sim
+756,11,2025-12-04,Atraso,Transporte público,39,Não
+757,8,2025-12-05,Atraso,Trânsito,50,Não
+758,21,2025-12-05,Falta,Falta injustificada,,Não
+759,39,2025-12-05,Falta,Atestado médico,,Sim
+760,50,2025-12-05,Atraso,Problema pessoal,12,Não
+761,3,2025-12-06,Atraso,Problema pessoal,14,Não
+762,6,2025-12-06,Atraso,Chuva/alagamento,16,Sim
+763,16,2025-12-06,Atraso,Chuva/alagamento,27,Sim
+764,25,2025-12-06,Atraso,Transporte público,10,Não
+765,31,2025-12-06,Atraso,Trânsito,12,Não
+766,39,2025-12-06,Falta,Atestado médico,,Sim
+767,11,2025-12-08,Falta,Atestado médico,,Sim
+768,32,2025-12-08,Atraso,Problema pessoal,17,Não
+769,34,2025-12-08,Atraso,Problema pessoal,22,Não
+770,39,2025-12-08,Atraso,Transporte público,14,Não
+771,41,2025-12-08,Atraso,Chuva/alagamento,14,Sim
+772,49,2025-12-08,Atraso,Chuva/alagamento,27,Sim
+773,29,2025-12-09,Falta,Falta injustificada,,Não
+774,40,2025-12-09,Falta,Falta injustificada,,Não
+775,45,2025-12-09,Falta,Falta injustificada,,Não
+776,54,2025-12-09,Atraso,Trânsito,20,Não
+777,2,2025-12-10,Atraso,Chuva/alagamento,23,Sim
+778,29,2025-12-10,Atraso,Trânsito,14,Não
+779,34,2025-12-10,Atraso,Trânsito,13,Não
+780,35,2025-12-10,Atraso,Transporte público,20,Não
+781,47,2025-12-10,Falta,Problema familiar,,Não
+782,15,2025-12-11,Atraso,Trânsito,85,Não
+783,20,2025-12-12,Falta,Falta injustificada,,Não
+784,5,2025-12-13,Atraso,Trânsito,16,Não
+785,15,2025-12-13,Falta,Atestado médico,,Sim
+786,20,2025-12-13,Atraso,Problema pessoal,41,Não
+787,21,2025-12-13,Atraso,Transporte público,27,Não
+788,49,2025-12-13,Falta,Falta injustificada,,Não
+789,1,2025-12-16,Atraso,Trânsito,39,Não
+790,4,2025-12-16,Atraso,Problema pessoal,11,Não
+791,15,2025-12-16,Falta,Consulta/exame médico,,Sim
+792,54,2025-12-16,Falta,Atestado médico,,Sim
+793,27,2025-12-17,Falta,Falta injustificada,,Não
+794,36,2025-12-17,Atraso,Problema pessoal,15,Não
+795,46,2025-12-17,Atraso,Trânsito,11,Não
+796,24,2025-12-18,Atraso,Trânsito,35,Não
+797,44,2025-12-18,Atraso,Transporte público,11,Não
+798,49,2025-12-18,Falta,Consulta/exame médico,,Sim
+799,55,2025-12-18,Atraso,Transporte público,17,Não
+800,18,2025-12-19,Atraso,Trânsito,20,Não
+801,29,2025-12-19,Atraso,Trânsito,10,Não
+802,50,2025-12-19,Atraso,Trânsito,34,Não
+803,5,2025-12-20,Falta,Problema familiar,,Não
+804,15,2025-12-20,Atraso,Problema pessoal,14,Não
+805,22,2025-12-20,Atraso,Trânsito,18,Não
+806,43,2025-12-20,Falta,Problema familiar,,Não
+807,44,2025-12-20,Atraso,Transporte público,15,Não
+808,27,2025-12-22,Atraso,Transporte público,92,Não
+809,7,2025-12-23,Falta,Problema familiar,,Não
+810,11,2025-12-23,Atraso,Problema pessoal,132,Não
+811,15,2025-12-23,Atraso,Trânsito,37,Não
+812,16,2025-12-23,Falta,Falta injustificada,,Não
+813,27,2025-12-23,Falta,Falta injustificada,,Não
+814,28,2025-12-23,Atraso,Trânsito,21,Não
+815,45,2025-12-23,Atraso,Trânsito,18,Não
+816,50,2025-12-23,Atraso,Trânsito,19,Não
+817,6,2025-12-24,Atraso,Chuva/alagamento,41,Sim
+818,20,2025-12-24,Atraso,Transporte público,38,Não
+819,25,2025-12-24,Falta,Atestado médico,,Sim
+820,43,2025-12-24,Atraso,Transporte público,40,Não
+821,4,2025-12-25,Atraso,Chuva/alagamento,16,Sim
+822,11,2025-12-25,Atraso,Chuva/alagamento,15,Sim
+823,12,2025-12-25,Atraso,Problema pessoal,61,Não
+824,22,2025-12-25,Atraso,Problema pessoal,11,Não
+825,29,2025-12-25,Atraso,Trânsito,31,Não
+826,30,2025-12-25,Atraso,Problema pessoal,16,Não
+827,45,2025-12-25,Atraso,Problema pessoal,10,Não
+828,50,2025-12-26,Falta,Falta injustificada,,Não
+829,15,2025-12-27,Atraso,Trânsito,58,Não
+830,20,2025-12-27,Falta,Problema familiar,,Não
+831,36,2025-12-27,Atraso,Problema pessoal,16,Não
+832,41,2025-12-27,Atraso,Trânsito,19,Não
+833,44,2025-12-27,Atraso,Transporte público,10,Não
+834,54,2025-12-27,Falta,Atestado médico,,Sim
+835,1,2025-12-29,Atraso,Trânsito,57,Não
+836,16,2025-12-29,Atraso,Transporte público,13,Não
+837,29,2025-12-29,Atraso,Chuva/alagamento,19,Sim
+838,35,2025-12-29,Falta,Atestado médico,,Sim
+839,50,2025-12-29,Atraso,Chuva/alagamento,55,Sim
+840,29,2025-12-30,Atraso,Transporte público,71,Não
+841,6,2025-12-31,Atraso,Chuva/alagamento,44,Sim
+842,49,2025-12-31,Atraso,Trânsito,11,Não

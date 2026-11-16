@@ -1,0 +1,410 @@
+manutencao_id,veiculo_id,data_entrada,tipo_manutencao,servico,oficina,custo,dias_parado
+1,3,2025-01-01,Corretiva,Arrefecimento,Oficina interna,2274.06,5
+2,31,2025-01-02,Corretiva,Motor,Oficina interna,12635.16,5
+3,24,2025-01-03,Corretiva,Freios,Concessionária,3572.9,9
+4,9,2025-01-04,Preventiva,Revisão de freios,Concessionária,2764.64,1
+5,8,2025-01-05,Corretiva,Motor,Oficina interna,78500.0,21
+6,27,2025-01-05,Preventiva,Lubrificação geral,Concessionária,2267.16,2
+7,3,2025-01-06,Preventiva,Lubrificação geral,Concessionária,2174.05,1
+8,11,2025-01-08,Preventiva,Revisão (óleo e filtros),Oficina interna,2305.81,1
+9,19,2025-01-08,Corretiva,Pneus,Oficina terceirizada,3152.19,4
+10,20,2025-01-08,Corretiva,Compactador hidráulico,Oficina terceirizada,6100.99,6
+11,37,2025-01-08,Preventiva,Revisão (óleo e filtros),Oficina interna,1987.28,1
+12,40,2025-01-08,Preventiva,Lubrificação geral,Oficina interna,2424.25,1
+13,25,2025-01-12,Preventiva,Revisão de freios,Oficina interna,1942.94,1
+14,17,2025-01-15,CORRETIVA ,Compactador hidráulico,Oficina interna,2247.58,8
+15,34,2025-01-16,Preventiva,Revisão (óleo e filtros),Oficina interna,2003.78,2
+16,31,2025-01-17,Preventiva,Revisão de freios,Oficina interna,1373.73,1
+17,15,2025-01-18,Corretiva,Motor,Oficina terceirizada,7518.58,4
+18,7,2025-01-19,Corretiva,Freios,Concessionária,4991.81,5
+19,14,2025-01-19,Preventiva,Alinhamento e balanceamento,Oficina interna,2771.82,1
+20,25,2025-01-19,Corretiva,Freios,Concessionária,3214.66,5
+21,21,2025-01-20,Preventiva,Revisão (óleo e filtros),Oficina interna,191622.0,2
+22,39,2025-01-21,Corretiva,Suspensão,Oficina terceirizada,12893.78,5
+23,11,2025-01-22,Corretiva,Motor,Oficina terceirizada,13554.66,5
+24,24,2025-01-22,Preventiva,Revisão de freios,Oficina interna,2592.58,2
+25,17,2025-01-23,Preventiva,Revisão de freios,Concessionária,3771.83,2
+26,37,2025-01-24,CORRETIVA ,Pneus,Concessionária,1755.07,8
+27,8,2025-01-25,Preventiva,Revisão (óleo e filtros),Concessionária,2666.37,1
+28,13,2025-01-25,Preventiva,Lubrificação geral,Oficina interna,2828.18,1
+29,1,2025-01-26,Preventiva,Revisão de freios,Oficina interna,1399.74,1
+30,16,2025-01-27,Preventiva,Revisão de freios,Concessionária,2410.12,2
+31,36,2025-01-27,Preventiva,Revisão (óleo e filtros),Oficina interna,1132.11,1
+32,2,2025-01-30,Preventiva,Lubrificação geral,Oficina interna,3561.37,2
+33,10,2025-01-30,Corretiva,Compactador hidráulico,Oficina terceirizada,10221.61,5
+34,30,2025-01-31,Preventiva,Revisão (óleo e filtros),Oficina interna,4148.75,1
+35,6,2025-02-01,Preventiva,Revisão (óleo e filtros),Concessionária,3716.81,1
+36,6,2025-02-02,Corretiva,Pneus,Oficina interna,7102.04,8
+37,12,2025-02-02,Preventiva,Revisão (óleo e filtros),Oficina interna,2021.78,1
+38,7,2025-02-03,Corretiva,Compactador hidráulico,Oficina terceirizada,2768.33,6
+39,12,2025-02-03,Corretiva,Sistema elétrico,Oficina interna,11754.17,5
+40,10,2025-02-04,Preventiva,Revisão (óleo e filtros),Oficina interna,2555.31,1
+41,15,2025-02-04,Preventiva,Revisão (óleo e filtros),Concessionária,1639.91,2
+42,33,2025-02-04,Corretiva,Sistema elétrico,Oficina interna,1148.08,5
+43,20,2025-02-05,Preventiva,Revisão (óleo e filtros),Oficina interna,1951.55,1
+44,29,2025-02-05,Preventiva,Lubrificação geral,Oficina interna,2754.71,1
+45,35,2025-02-05,Corretiva,Pneus,Oficina interna,14237.1,3
+46,22,2025-02-06,Preventiva,Lubrificação geral,Oficina interna,3795.81,1
+47,7,2025-02-09,Preventiva,Alinhamento e balanceamento,Concessionária,3302.6,1
+48,18,2025-02-09,Preventiva,Revisão (óleo e filtros),Oficina interna,3503.41,2
+49,35,2025-02-09,Preventiva,Revisão (óleo e filtros),Concessionária,1702.61,1
+50,38,2025-02-09,Preventiva,Lubrificação geral,Oficina interna,2590.42,1
+51,39,2025-02-09,Preventiva,Revisão (óleo e filtros),Oficina interna,1918.47,1
+52,15,2025-02-10,Corretiva,Arrefecimento,Concessionária,5879.31,5
+53,5,2025-02-11,Preventiva,Lubrificação geral,Oficina interna,2293.69,2
+54,28,2025-02-11,Preventiva,Revisão (óleo e filtros),Concessionária,2394.74,1
+55,20,2025-02-12,Corretiva,Suspensão,Oficina terceirizada,3422.42,7
+56,7,2025-02-14,Corretiva,Suspensão,Concessionária,4172.96,6
+57,23,2025-02-14,Preventiva,Revisão (óleo e filtros),Oficina interna,3556.18,2
+58,32,2025-02-14,Preventiva,Lubrificação geral,Oficina interna,1498.04,1
+59,26,2025-02-15,Preventiva,Revisão (óleo e filtros),Oficina interna,4588.24,2
+60,29,2025-02-15,CORRETIVA ,Suspensão,Oficina terceirizada,2951.55,7
+61,4,2025-02-16,Preventiva,Alinhamento e balanceamento,Concessionária,1437.16,1
+62,3,2025-02-17,Preventiva,Revisão de freios,Oficina interna,2827.74,1
+63,33,2025-02-17,Preventiva,Revisão (óleo e filtros),Oficina interna,2268.94,2
+64,37,2025-02-18,Corretiva,Pneus,Oficina interna,6830.65,5
+65,19,2025-02-19,PREVENTIVA ,Alinhamento e balanceamento,Concessionária,2885.03,1
+66,36,2025-02-20,Corretiva,Freios,Oficina terceirizada,5849.95,3
+67,34,2025-02-21,Corretiva,Bomba d'água / tanque,Oficina interna,6635.38,8
+68,8,2025-02-23,Corretiva,Compactador hidráulico,Oficina interna,22327.07,11
+69,40,2025-02-24,Corretiva,Embreagem,Oficina interna,11248.78,15
+70,12,2025-02-25,Corretiva,Compactador hidráulico,Concessionária,7621.62,6
+71,14,2025-02-27,Preventiva,Lubrificação geral,Concessionária,3590.55,1
+72,9,2025-02-28,Preventiva,Revisão (óleo e filtros),Oficina interna,1608.45,1
+73,33,2025-02-28,Corretiva,Bomba d'água / tanque,Oficina interna,2785.04,12
+74,38,2025-02-28,Corretiva,Pneus,Oficina interna,8460.58,6
+75,27,2025-03-01,Preventiva,Alinhamento e balanceamento,Oficina interna,2727.89,2
+76,25,2025-03-02,Preventiva,Revisão de freios,Oficina interna,1996.96,2
+77,34,2025-03-02,Preventiva,Revisão (óleo e filtros),Oficina interna,2588.91,1
+78,11,2025-03-07,Preventiva,Revisão (óleo e filtros),Concessionária,2526.48,2
+79,24,2025-03-07,Corretiva,Bomba de alta pressão,Concessionária,2512.95,3
+80,15,2025-03-08,Corretiva,Suspensão,Oficina terceirizada,4277.93,5
+81,31,2025-03-08,Preventiva,Revisão (óleo e filtros),Oficina interna,1210.21,1
+82,17,2025-03-09,Preventiva,Alinhamento e balanceamento,Oficina interna,2558.09,1
+83,40,2025-03-11,Preventiva,Revisão (óleo e filtros),Oficina interna,2988.42,1
+84,21,2025-03-12,Preventiva,Revisão (óleo e filtros),Oficina interna,2742.81,1
+85,24,2025-03-16,Preventiva,Revisão (óleo e filtros),Oficina interna,2239.83,1
+86,34,2025-03-16,Corretiva,Suspensão,Oficina interna,2044.02,5
+87,6,2025-03-17,Corretiva,Sistema elétrico,Oficina interna,12749.99,8
+88,13,2025-03-17,Corretiva,Compactador hidráulico,Concessionária,6625.29,8
+89,17,2025-03-17,Corretiva,Motor,Oficina terceirizada,5907.55,11
+90,25,2025-03-18,Corretiva,Sistema elétrico,Oficina interna,5357.93,5
+91,2,2025-03-19,Corretiva,Compactador hidráulico,Oficina interna,5866.68,4
+92,12,2025-03-19,Preventiva,Revisão (óleo e filtros),Oficina interna,2794.56,1
+93,36,2025-03-19,Preventiva,Revisão de freios,Oficina interna,1246.26,1
+94,37,2025-03-20,Preventiva,Revisão (óleo e filtros),Oficina interna,2054.8,1
+95,27,2025-03-22,Corretiva,Pneus,Oficina terceirizada,4804.23,6
+96,22,2025-03-23,Preventiva,Revisão (óleo e filtros),Oficina interna,,2
+97,1,2025-03-24,Corretiva,Suspensão,Oficina terceirizada,3147.42,12
+98,31,2025-03-25,Corretiva,Suspensão,Oficina interna,6221.54,7
+99,6,2025-03-27,Preventiva,Revisão (óleo e filtros),Oficina interna,3682.89,2
+100,16,2025-03-27,Preventiva,Revisão (óleo e filtros),Concessionária,2573.45,2
+101,25,2025-03-27,Corretiva,Bomba de alta pressão,Oficina interna,19854.55,7
+102,33,2025-03-28,Corretiva,Arrefecimento,Oficina interna,5006.64,6
+103,8,2025-03-29,Preventiva,Revisão (óleo e filtros),Oficina interna,2233.36,1
+104,10,2025-03-29,Preventiva,Revisão (óleo e filtros),Oficina interna,1405.93,1
+105,15,2025-03-29,Preventiva,Revisão (óleo e filtros),Oficina interna,2739.88,1
+106,24,2025-03-29,Corretiva,Pneus,Oficina terceirizada,6343.36,4
+107,39,2025-03-29,Corretiva,Bomba d'água / tanque,Concessionária,4592.14,5
+108,2,2025-03-30,Preventiva,Revisão de freios,Oficina interna,2719.47,2
+109,12,2025-03-30,Corretiva,Compactador hidráulico,Oficina interna,9235.61,9
+110,28,2025-03-31,Preventiva,Revisão (óleo e filtros),Oficina interna,2826.5,2
+111,30,2025-03-31,Preventiva,Revisão (óleo e filtros),Oficina interna,3643.83,1
+112,33,2025-04-03,Preventiva,Revisão (óleo e filtros),Oficina interna,2967.26,2
+113,39,2025-04-03,Preventiva,Lubrificação geral,Oficina interna,2394.37,1
+114,29,2025-04-04,Preventiva,Revisão (óleo e filtros),Concessionária,2840.54,1
+115,1,2025-04-05,PREVENTIVA ,Revisão (óleo e filtros),Concessionária,2397.71,1
+116,7,2025-04-06,Preventiva,Lubrificação geral,Oficina interna,3072.53,1
+117,20,2025-04-06,Preventiva,Lubrificação geral,Oficina interna,3501.15,1
+118,22,2025-04-06,Corretiva,Sistema elétrico,Oficina terceirizada,14360.4,9
+119,4,2025-04-07,Preventiva,Alinhamento e balanceamento,Oficina interna,2165.72,1
+120,25,2025-04-07,Corretiva,Arrefecimento,Oficina interna,2918.56,5
+121,5,2025-04-08,Preventiva,Lubrificação geral,Oficina interna,2090.11,2
+122,35,2025-04-09,Preventiva,Revisão (óleo e filtros),Oficina interna,2116.96,1
+123,13,2025-04-10,Corretiva,Pneus,Concessionária,17567.51,5
+124,32,2025-04-10,Preventiva,Revisão de freios,Oficina interna,2569.09,1
+125,25,2025-04-12,Preventiva,Revisão (óleo e filtros),Concessionária,3621.95,1
+126,37,2025-04-12,Corretiva,Pneus,Oficina terceirizada,4447.78,10
+127,18,2025-04-14,Preventiva,Revisão de freios,Concessionária,2694.44,1
+128,11,2025-04-15,Corretiva,Pneus,Concessionária,3119.48,6
+129,13,2025-04-15,Preventiva,Revisão (óleo e filtros),Oficina interna,1457.85,1
+130,26,2025-04-15,Preventiva,Alinhamento e balanceamento,Concessionária,3180.47,1
+131,3,2025-04-16,Preventiva,Alinhamento e balanceamento,Oficina interna,3012.22,1
+132,19,2025-04-16,Preventiva,Revisão de freios,Concessionária,2454.34,2
+133,15,2025-04-17,Corretiva,Freios,Oficina interna,4618.25,5
+134,31,2025-04-17,Preventiva,Revisão (óleo e filtros),Oficina interna,2128.23,2
+135,4,2025-04-19,Corretiva,Sistema elétrico,Concessionária,4207.83,3
+136,8,2025-04-19,Corretiva,Pneus,Concessionária,7374.48,3
+137,14,2025-04-20,Preventiva,Revisão de freios,Oficina interna,3372.63,1
+138,23,2025-04-20,Preventiva,Revisão de freios,Oficina interna,2506.43,1
+139,34,2025-04-21,Preventiva,Alinhamento e balanceamento,Oficina interna,2192.08,1
+140,9,2025-04-22,Preventiva,Revisão (óleo e filtros),Oficina interna,2149.28,1
+141,15,2025-04-22,Corretiva,Pneus,Oficina terceirizada,1464.43,7
+142,37,2025-04-22,Corretiva,Arrefecimento,Oficina terceirizada,4785.66,8
+143,38,2025-04-24,Preventiva,Revisão (óleo e filtros),Concessionária,2365.41,2
+144,7,2025-04-28,Corretiva,Suspensão,Oficina terceirizada,5927.37,11
+145,36,2025-04-29,Preventiva,Revisão (óleo e filtros),Oficina interna,2270.66,1
+146,40,2025-04-29,Corretiva,Motor,Oficina terceirizada,21664.34,5
+147,8,2025-04-30,Corretiva,Freios,Oficina terceirizada,9429.54,7
+148,11,2025-05-02,Preventiva,Alinhamento e balanceamento,Oficina interna,2216.78,1
+149,17,2025-05-02,Preventiva,Lubrificação geral,Concessionária,3186.32,2
+150,34,2025-05-02,Corretiva,Embreagem,Oficina interna,1705.63,5
+151,21,2025-05-03,Preventiva,Lubrificação geral,Oficina interna,2406.4,2
+152,13,2025-05-04,Corretiva,Sistema elétrico,Oficina terceirizada,1633.78,6
+153,40,2025-05-04,Preventiva,Revisão (óleo e filtros),Oficina interna,2109.07,1
+154,22,2025-05-05,Preventiva,Revisão (óleo e filtros),Oficina interna,2495.66,1
+155,27,2025-05-06,Preventiva,Alinhamento e balanceamento,Oficina interna,3517.52,1
+156,8,2025-05-07,Corretiva,Suspensão,Concessionária,6389.57,9
+157,1,2025-05-08,Corretiva,Pneus,Concessionária,3723.26,2
+158,19,2025-05-08,Corretiva,Embreagem,Oficina interna,6048.23,5
+159,16,2025-05-14,Preventiva,Lubrificação geral,Oficina interna,1604.06,1
+160,12,2025-05-15,Preventiva,Lubrificação geral,Oficina interna,2056.0,1
+161,15,2025-05-15,Preventiva,Revisão (óleo e filtros),Oficina interna,2495.12,1
+162,9,2025-05-16,Corretiva,Compactador hidráulico,Oficina terceirizada,4687.17,8
+163,15,2025-05-16,Corretiva,Compactador hidráulico,Oficina terceirizada,3600.58,9
+164,35,2025-05-16,Preventiva,Alinhamento e balanceamento,Oficina interna,2459.68,2
+165,6,2025-05-18,Preventiva,Lubrificação geral,Concessionária,3252.21,1
+166,28,2025-05-18,Preventiva,Revisão (óleo e filtros),Oficina interna,3830.58,1
+167,33,2025-05-18,Preventiva,Revisão de freios,Oficina interna,1474.36,1
+168,37,2025-05-18,Preventiva,Revisão de freios,Oficina interna,1771.13,1
+169,29,2025-05-19,Preventiva,Revisão (óleo e filtros),Oficina interna,1830.14,1
+170,1,2025-05-20,Preventiva,Lubrificação geral,Oficina interna,1725.17,1
+171,8,2025-05-20,Preventiva,Alinhamento e balanceamento,Concessionária,2796.82,1
+172,10,2025-05-21,Preventiva,Lubrificação geral,Oficina interna,1911.95,2
+173,32,2025-05-21,Preventiva,Lubrificação geral,Oficina interna,2035.06,1
+174,30,2025-05-22,Preventiva,Revisão (óleo e filtros),Oficina interna,3236.26,2
+175,25,2025-05-24,Corretiva,Bomba de alta pressão,Oficina interna,9059.02,11
+176,2,2025-05-25,Preventiva,Lubrificação geral,Concessionária,3025.15,1
+177,39,2025-05-27,Corretiva,Bomba d'água / tanque,Oficina interna,5934.68,5
+178,8,2025-05-29,Corretiva,Compactador hidráulico,Concessionária,1925.63,8
+179,24,2025-05-30,PREVENTIVA ,Lubrificação geral,Oficina interna,2308.97,1
+180,21,2025-05-31,Corretiva,Compactador hidráulico,Concessionária,,3
+181,26,2025-06-02,Preventiva,Alinhamento e balanceamento,Oficina interna,4723.47,2
+182,14,2025-06-03,Preventiva,Alinhamento e balanceamento,Oficina interna,1942.1,1
+183,18,2025-06-04,Preventiva,Revisão (óleo e filtros),Concessionária,2102.21,2
+184,25,2025-06-04,Preventiva,Revisão (óleo e filtros),Oficina interna,2815.58,1
+185,7,2025-06-05,Preventiva,Revisão de freios,Oficina interna,2067.15,1
+186,20,2025-06-05,PREVENTIVA ,Revisão de freios,Oficina interna,2141.3,1
+187,8,2025-06-06,Corretiva,Motor,Concessionária,30679.62,14
+188,39,2025-06-06,Preventiva,Lubrificação geral,Oficina interna,2237.24,2
+189,3,2025-06-08,Preventiva,Revisão de freios,Oficina interna,2801.26,1
+190,19,2025-06-08,Preventiva,Revisão (óleo e filtros),Oficina interna,1920.48,2
+191,25,2025-06-09,Corretiva,Freios,Oficina interna,10592.48,9
+192,14,2025-06-10,Corretiva,Embreagem,Oficina terceirizada,9682.88,7
+193,17,2025-06-10,Corretiva,Freios,Concessionária,6443.7,13
+194,4,2025-06-12,Preventiva,Revisão (óleo e filtros),Oficina interna,1859.73,1
+195,38,2025-06-12,Preventiva,Revisão de freios,Oficina interna,1536.54,2
+196,16,2025-06-13,Corretiva,Compactador hidráulico,Oficina interna,1158.8,8
+197,34,2025-06-13,Preventiva,Lubrificação geral,Concessionária,2229.26,1
+198,13,2025-06-15,Preventiva,Revisão (óleo e filtros),Concessionária,1699.14,2
+199,31,2025-06-16,Preventiva,Revisão (óleo e filtros),Concessionária,2459.88,2
+200,23,2025-06-18,Preventiva,Revisão de freios,Concessionária,3009.39,1
+201,2,2025-06-20,Corretiva,Sistema elétrico,Oficina terceirizada,8987.21,6
+202,9,2025-06-20,Preventiva,Revisão (óleo e filtros),Oficina interna,2194.22,1
+203,22,2025-06-20,Corretiva,Embreagem,Oficina terceirizada,14148.14,6
+204,17,2025-06-23,Preventiva,Lubrificação geral,Oficina interna,2620.91,2
+205,5,2025-06-24,Preventiva,Revisão de freios,Oficina interna,1793.74,1
+206,10,2025-06-24,Corretiva,Motor,Oficina interna,27893.73,8
+207,13,2025-06-25,Corretiva,Compactador hidráulico,Oficina terceirizada,7069.54,7
+208,5,2025-06-26,Corretiva,Embreagem,Oficina interna,,5
+209,16,2025-06-26,Preventiva,Revisão (óleo e filtros),Oficina interna,1761.49,2
+210,36,2025-06-26,Preventiva,Revisão (óleo e filtros),Oficina interna,1092.41,1
+211,17,2025-06-28,Corretiva,Embreagem,Concessionária,4144.93,5
+212,22,2025-06-28,PREVENTIVA ,Lubrificação geral,Concessionária,3115.01,1
+213,11,2025-06-29,Preventiva,Revisão de freios,Concessionária,1509.09,1
+214,25,2025-06-30,Corretiva,Suspensão,Concessionária,2377.4,4
+215,8,2025-07-01,Preventiva,Revisão (óleo e filtros),Oficina interna,1631.09,1
+216,27,2025-07-01,Preventiva,Lubrificação geral,Oficina interna,3233.41,2
+217,1,2025-07-02,Preventiva,Revisão (óleo e filtros),Oficina interna,2256.31,2
+218,10,2025-07-03,Preventiva,Revisão (óleo e filtros),Concessionária,2744.26,2
+219,21,2025-07-03,Preventiva,Lubrificação geral,Oficina interna,2778.69,1
+220,24,2025-07-03,Preventiva,Revisão (óleo e filtros),Concessionária,2850.89,2
+221,33,2025-07-05,Preventiva,Lubrificação geral,Oficina interna,3389.01,1
+222,32,2025-07-06,Preventiva,Revisão (óleo e filtros),Oficina interna,2201.05,1
+223,38,2025-07-07,Corretiva,Suspensão,Oficina terceirizada,4284.0,7
+224,40,2025-07-07,Preventiva,Revisão (óleo e filtros),Oficina interna,1523.02,1
+225,30,2025-07-09,Preventiva,Lubrificação geral,Oficina interna,2024.57,1
+226,35,2025-07-09,Preventiva,Alinhamento e balanceamento,Concessionária,1748.49,1
+227,12,2025-07-11,Preventiva,Revisão de freios,Concessionária,2920.02,1
+228,37,2025-07-12,PREVENTIVA ,Lubrificação geral,Concessionária,3049.9,2
+229,16,2025-07-13,Corretiva,Sistema elétrico,Oficina terceirizada,6223.69,8
+230,17,2025-07-13,Corretiva,Suspensão,Oficina terceirizada,17908.3,5
+231,6,2025-07-14,PREVENTIVA ,Revisão (óleo e filtros),Oficina interna,3504.59,1
+232,18,2025-07-14,Corretiva,Sistema elétrico,Oficina interna,18187.51,8
+233,28,2025-07-14,Preventiva,Lubrificação geral,Oficina interna,2832.42,1
+234,15,2025-07-15,Preventiva,Revisão (óleo e filtros),Oficina interna,2798.43,1
+235,32,2025-07-17,Corretiva,Sistema elétrico,Oficina terceirizada,16903.03,3
+236,39,2025-07-17,Corretiva,Bomba d'água / tanque,Oficina terceirizada,10729.63,4
+237,24,2025-07-18,Corretiva,Freios,Oficina interna,8845.78,7
+238,29,2025-07-19,Preventiva,Revisão (óleo e filtros),Oficina interna,3925.8,2
+239,12,2025-07-22,Corretiva,Sistema elétrico,Oficina terceirizada,2829.33,8
+240,39,2025-07-23,Preventiva,Lubrificação geral,Oficina interna,1199.1,2
+241,2,2025-07-24,Preventiva,Revisão (óleo e filtros),Oficina interna,1782.36,1
+242,13,2025-07-25,Preventiva,Revisão de freios,Oficina interna,2890.01,1
+243,18,2025-07-26,Preventiva,Revisão (óleo e filtros),Oficina interna,2154.08,1
+244,6,2025-07-27,Corretiva,Suspensão,Oficina terceirizada,10082.05,6
+245,7,2025-07-27,Preventiva,Lubrificação geral,Oficina interna,3070.4,2
+246,19,2025-07-27,Preventiva,Lubrificação geral,Oficina interna,2705.08,1
+247,23,2025-07-27,PREVENTIVA ,Lubrificação geral,Oficina interna,2436.95,1
+248,25,2025-07-28,Preventiva,Revisão de freios,Oficina interna,2804.56,1
+249,1,2025-07-29,Corretiva,Freios,Concessionária,2901.86,2
+250,14,2025-07-29,Preventiva,Alinhamento e balanceamento,Concessionária,3905.55,1
+251,20,2025-07-31,Preventiva,Lubrificação geral,Oficina interna,2222.89,2
+252,4,2025-08-03,Preventiva,Alinhamento e balanceamento,Concessionária,2968.16,1
+253,3,2025-08-04,Preventiva,Alinhamento e balanceamento,Concessionária,2176.39,1
+254,31,2025-08-04,Preventiva,Lubrificação geral,Oficina interna,1385.27,1
+255,5,2025-08-05,Preventiva,Revisão (óleo e filtros),Concessionária,2506.49,1
+256,28,2025-08-05,Corretiva,Pneus,Oficina terceirizada,4099.68,7
+257,38,2025-08-05,Preventiva,Revisão de freios,Oficina interna,,1
+258,34,2025-08-06,Preventiva,Revisão de freios,Oficina interna,1752.89,1
+259,18,2025-08-07,Corretiva,Suspensão,Concessionária,9230.5,8
+260,30,2025-08-08,Corretiva,Suspensão,Oficina terceirizada,5447.38,5
+261,2,2025-08-09,Corretiva,Sistema elétrico,Oficina interna,5937.51,5
+262,7,2025-08-09,Corretiva,Pneus,Oficina interna,2875.65,4
+263,26,2025-08-09,Preventiva,Revisão (óleo e filtros),Concessionária,3275.43,1
+264,12,2025-08-10,Corretiva,Pneus,Oficina terceirizada,5807.39,4
+265,39,2025-08-12,Corretiva,Bomba d'água / tanque,Oficina interna,12122.45,8
+266,11,2025-08-13,Corretiva,Sistema elétrico,Oficina interna,5633.31,3
+267,33,2025-08-14,Preventiva,Revisão (óleo e filtros),Oficina interna,1834.87,2
+268,9,2025-08-15,Preventiva,Revisão (óleo e filtros),Oficina interna,1980.8,1
+269,24,2025-08-15,CORRETIVA ,Arrefecimento,Oficina terceirizada,4227.87,6
+270,17,2025-08-17,Preventiva,Revisão (óleo e filtros),Oficina interna,3172.18,1
+271,36,2025-08-17,Preventiva,Lubrificação geral,Oficina interna,2320.0,1
+272,15,2025-08-18,Preventiva,Revisão (óleo e filtros),Oficina interna,3479.1,1
+273,32,2025-08-18,Corretiva,Arrefecimento,Oficina terceirizada,3363.84,3
+274,40,2025-08-18,Corretiva,Embreagem,Oficina terceirizada,6732.93,3
+275,29,2025-08-19,Corretiva,Pneus,Concessionária,5528.67,4
+276,1,2025-08-22,Preventiva,Revisão (óleo e filtros),Oficina interna,1583.56,1
+277,11,2025-08-23,Preventiva,Lubrificação geral,Oficina interna,1966.77,2
+278,24,2025-08-23,Preventiva,Revisão (óleo e filtros),Oficina interna,2448.98,1
+279,40,2025-08-24,Preventiva,Revisão de freios,Oficina interna,2447.82,1
+280,1,2025-08-25,Corretiva,Compactador hidráulico,Oficina terceirizada,15878.34,5
+281,21,2025-08-25,Preventiva,Lubrificação geral,Oficina interna,2343.91,2
+282,22,2025-08-25,Preventiva,Revisão de freios,Oficina interna,1735.84,1
+283,16,2025-08-26,Preventiva,Lubrificação geral,Oficina interna,2163.5,1
+284,27,2025-08-26,Preventiva,Lubrificação geral,Oficina interna,3485.07,2
+285,12,2025-08-31,Preventiva,Revisão (óleo e filtros),Oficina interna,2046.59,1
+286,28,2025-09-01,Preventiva,Lubrificação geral,Oficina interna,1913.16,1
+287,6,2025-09-02,Preventiva,Revisão (óleo e filtros),Oficina interna,3371.74,2
+288,30,2025-09-02,Preventiva,Revisão (óleo e filtros),Concessionária,3217.73,2
+289,7,2025-09-03,Corretiva,Pneus,Oficina interna,9646.3,5
+290,20,2025-09-03,Corretiva,Embreagem,Oficina interna,4665.98,4
+291,10,2025-09-05,Preventiva,Revisão de freios,Oficina interna,2041.18,1
+292,34,2025-09-07,Corretiva,Suspensão,Concessionária,4106.58,10
+293,8,2025-09-09,Preventiva,Alinhamento e balanceamento,Oficina interna,1604.52,1
+294,37,2025-09-09,Preventiva,Lubrificação geral,Oficina interna,2162.4,1
+295,35,2025-09-10,Preventiva,Revisão (óleo e filtros),Oficina interna,1499.69,2
+296,37,2025-09-10,Corretiva,Bomba d'água / tanque,Concessionária,7932.99,6
+297,17,2025-09-12,Corretiva,Sistema elétrico,Concessionária,6540.47,5
+298,19,2025-09-14,Preventiva,Alinhamento e balanceamento,Concessionária,1905.19,1
+299,39,2025-09-14,Preventiva,Revisão (óleo e filtros),Concessionária,2210.64,1
+300,25,2025-09-15,Corretiva,Suspensão,Oficina interna,3514.87,7
+301,28,2025-09-15,Corretiva,Bomba de alta pressão,Oficina interna,7156.78,5
+302,29,2025-09-15,Preventiva,Revisão (óleo e filtros),Oficina interna,2427.28,2
+303,3,2025-09-17,Preventiva,Revisão (óleo e filtros),Oficina interna,1789.71,2
+304,7,2025-09-17,Preventiva,Revisão (óleo e filtros),Oficina interna,2651.78,1
+305,32,2025-09-17,Preventiva,Lubrificação geral,Oficina interna,1718.29,1
+306,2,2025-09-22,Preventiva,Revisão (óleo e filtros),Oficina interna,1778.0,1
+307,12,2025-09-22,Corretiva,Suspensão,Concessionária,11667.46,9
+308,4,2025-09-23,Preventiva,Revisão (óleo e filtros),Oficina interna,2851.6,1
+309,7,2025-09-24,Corretiva,Freios,Oficina interna,4462.27,6
+310,18,2025-09-24,Preventiva,Lubrificação geral,Oficina interna,3095.22,1
+311,3,2025-09-26,Corretiva,Pneus,Oficina interna,1334.95,2
+312,10,2025-09-26,Corretiva,Pneus,Concessionária,7800.79,4
+313,26,2025-09-26,Preventiva,Revisão de freios,Concessionária,2183.09,2
+314,1,2025-09-27,Corretiva,Freios,Concessionária,15878.02,6
+315,13,2025-09-27,Preventiva,Revisão (óleo e filtros),Oficina interna,2772.17,2
+316,34,2025-09-28,Preventiva,Revisão (óleo e filtros),Concessionária,1637.79,1
+317,21,2025-09-29,CORRETIVA ,Freios,Concessionária,2315.41,2
+318,35,2025-09-29,Corretiva,Sistema elétrico,Oficina terceirizada,14680.09,2
+319,9,2025-10-01,Preventiva,Alinhamento e balanceamento,Oficina interna,2916.08,1
+320,17,2025-10-01,Corretiva,Compactador hidráulico,Oficina terceirizada,21529.23,8
+321,25,2025-10-01,Preventiva,Revisão (óleo e filtros),Oficina interna,4033.5,1
+322,31,2025-10-02,Preventiva,Revisão (óleo e filtros),Concessionária,1647.72,1
+323,35,2025-10-02,Corretiva,Sistema elétrico,Oficina interna,2661.99,5
+324,2,2025-10-04,Corretiva,Suspensão,Oficina interna,5657.99,8
+325,19,2025-10-04,Corretiva,Embreagem,Concessionária,4273.47,4
+326,20,2025-10-04,Preventiva,Revisão de freios,Oficina interna,3450.22,1
+327,23,2025-10-05,Preventiva,Revisão (óleo e filtros),Oficina interna,2094.47,2
+328,5,2025-10-06,Preventiva,Revisão (óleo e filtros),Oficina interna,1831.32,2
+329,15,2025-10-06,Preventiva,Alinhamento e balanceamento,Oficina interna,1920.93,1
+330,38,2025-10-07,Preventiva,Alinhamento e balanceamento,Oficina interna,2338.8,1
+331,17,2025-10-11,Preventiva,Revisão (óleo e filtros),Oficina interna,3104.66,1
+332,11,2025-10-13,Preventiva,Revisão (óleo e filtros),Oficina interna,2997.23,1
+333,30,2025-10-15,Preventiva,Revisão de freios,Oficina interna,3572.47,1
+334,27,2025-10-16,Preventiva,Revisão (óleo e filtros),Oficina interna,2710.37,2
+335,40,2025-10-19,Preventiva,Revisão de freios,Concessionária,1456.08,2
+336,21,2025-10-20,Preventiva,Lubrificação geral,Oficina interna,2289.96,1
+337,33,2025-10-21,Preventiva,Lubrificação geral,Concessionária,3214.23,1
+338,24,2025-10-22,Preventiva,Revisão de freios,Concessionária,2625.53,1
+339,18,2025-10-23,Corretiva,Compactador hidráulico,Oficina terceirizada,5112.75,7
+340,36,2025-10-23,Preventiva,Revisão (óleo e filtros),Oficina interna,1915.87,2
+341,1,2025-10-25,Preventiva,Lubrificação geral,Oficina interna,2337.22,1
+342,12,2025-10-25,Preventiva,Lubrificação geral,Oficina interna,2487.47,1
+343,24,2025-10-25,Corretiva,Bomba de alta pressão,Concessionária,3627.79,6
+344,6,2025-10-26,Preventiva,Revisão (óleo e filtros),Oficina interna,3400.04,2
+345,8,2025-10-26,Preventiva,Revisão (óleo e filtros),Concessionária,1933.35,1
+346,32,2025-10-26,Corretiva,Suspensão,Oficina terceirizada,5229.9,3
+347,16,2025-10-27,Preventiva,Alinhamento e balanceamento,Concessionária,1480.55,1
+348,28,2025-10-29,Preventiva,Lubrificação geral,Concessionária,2645.69,1
+349,10,2025-10-30,Preventiva,Revisão (óleo e filtros),Oficina interna,1654.12,1
+350,22,2025-10-30,Preventiva,Revisão (óleo e filtros),Oficina interna,2485.88,1
+351,16,2025-10-31,Corretiva,Freios,Oficina interna,2003.81,6
+352,29,2025-11-03,Preventiva,Revisão de freios,Concessionária,3554.92,1
+353,24,2025-11-06,Corretiva,Sistema elétrico,Oficina terceirizada,32369.13,5
+354,19,2025-11-07,Preventiva,Lubrificação geral,Oficina interna,2560.9,2
+355,32,2025-11-07,Preventiva,Revisão (óleo e filtros),Oficina interna,1812.23,2
+356,13,2025-11-08,Preventiva,Revisão (óleo e filtros),Oficina interna,2722.64,2
+357,27,2025-11-08,Corretiva,Bomba de alta pressão,Concessionária,1888.27,8
+358,35,2025-11-10,PREVENTIVA ,Revisão (óleo e filtros),Oficina interna,1838.86,2
+359,18,2025-11-14,Corretiva,Compactador hidráulico,Concessionária,6241.67,3
+360,2,2025-11-15,Preventiva,Lubrificação geral,Oficina interna,2046.84,2
+361,4,2025-11-15,Preventiva,Revisão (óleo e filtros),Oficina interna,2187.09,1
+362,7,2025-11-15,Preventiva,Revisão de freios,Oficina interna,1669.85,1
+363,37,2025-11-15,Preventiva,Revisão (óleo e filtros),Oficina interna,2486.1,1
+364,3,2025-11-16,Preventiva,Revisão (óleo e filtros),Oficina interna,2387.39,2
+365,17,2025-11-17,Corretiva,Freios,Concessionária,2772.32,8
+366,39,2025-11-18,Preventiva,Alinhamento e balanceamento,Oficina interna,2344.49,1
+367,26,2025-11-20,Preventiva,Revisão (óleo e filtros),Concessionária,2572.65,2
+368,5,2025-11-22,Preventiva,Revisão (óleo e filtros),Concessionária,1735.27,1
+369,30,2025-11-24,Preventiva,Revisão (óleo e filtros),Concessionária,2052.18,2
+370,15,2025-11-26,Preventiva,Revisão (óleo e filtros),Concessionária,2773.63,2
+371,20,2025-11-26,Preventiva,Revisão (óleo e filtros),Oficina interna,2526.14,2
+372,23,2025-11-27,Preventiva,Revisão (óleo e filtros),Oficina interna,3080.0,1
+373,9,2025-11-28,Preventiva,Revisão de freios,Oficina interna,1712.35,1
+374,18,2025-11-28,Preventiva,Alinhamento e balanceamento,Oficina interna,3418.91,2
+375,31,2025-11-28,Preventiva,Revisão (óleo e filtros),Oficina interna,1769.88,1
+376,34,2025-11-29,Preventiva,Alinhamento e balanceamento,Oficina interna,2674.96,1
+377,12,2025-12-01,Corretiva,Motor,Concessionária,103215.8,6
+378,24,2025-12-01,Preventiva,Revisão (óleo e filtros),Oficina interna,2742.75,1
+379,39,2025-12-01,Corretiva,Embreagem,Concessionária,2311.24,8
+380,22,2025-12-03,Preventiva,Alinhamento e balanceamento,Concessionária,3327.21,1
+381,12,2025-12-07,Preventiva,Revisão (óleo e filtros),Concessionária,2548.84,1
+382,38,2025-12-07,Preventiva,Revisão (óleo e filtros),Oficina interna,2096.93,1
+383,27,2025-12-08,PREVENTIVA ,Revisão (óleo e filtros),Oficina interna,3862.24,1
+384,40,2025-12-10,Preventiva,Lubrificação geral,Oficina interna,2779.83,1
+385,17,2025-12-11,Corretiva,Compactador hidráulico,Concessionária,14449.42,5
+386,31,2025-12-12,Corretiva,Suspensão,Oficina terceirizada,5961.92,5
+387,25,2025-12-13,Preventiva,Revisão (óleo e filtros),Oficina interna,2981.47,1
+388,39,2025-12-13,Corretiva,Bomba d'água / tanque,Concessionária,7411.97,4
+389,6,2025-12-14,Corretiva,Freios,Oficina terceirizada,2769.44,6
+390,8,2025-12-15,Preventiva,Lubrificação geral,Concessionária,3442.25,2
+391,11,2025-12-16,Preventiva,Revisão (óleo e filtros),Oficina interna,2635.78,1
+392,21,2025-12-16,Preventiva,Revisão (óleo e filtros),Oficina interna,1528.8,1
+393,36,2025-12-16,Preventiva,Revisão (óleo e filtros),Oficina interna,2160.1,1
+394,40,2025-12-16,Corretiva,Motor,Concessionária,13223.65,6
+395,10,2025-12-17,Preventiva,Revisão (óleo e filtros),Oficina interna,2771.61,1
+396,17,2025-12-18,Preventiva,Revisão de freios,Oficina interna,2940.72,2
+397,25,2025-12-18,Corretiva,Motor,Oficina interna,12138.51,8
+398,28,2025-12-19,Corretiva,Freios,Oficina interna,5542.4,5
+399,32,2025-12-19,Corretiva,Pneus,Oficina terceirizada,4924.78,6
+400,1,2025-12-21,PREVENTIVA ,Revisão (óleo e filtros),Oficina interna,2265.94,2
+401,29,2025-12-21,Preventiva,Alinhamento e balanceamento,Concessionária,3572.3,1
+402,19,2025-12-23,Preventiva,Revisão (óleo e filtros),Concessionária,2013.6,2
+403,6,2025-12-26,Preventiva,Alinhamento e balanceamento,Oficina interna,1824.44,2
+404,2,2025-12-28,Corretiva,Freios,Concessionária,,6
+405,7,2025-12-28,Preventiva,Revisão de freios,Concessionária,1669.42,2
+406,15,2025-12-28,Corretiva,Pneus,Oficina terceirizada,13526.37,7
+407,22,2025-12-28,Corretiva,Embreagem,Oficina terceirizada,13942.06,9
+408,35,2025-12-29,Corretiva,Arrefecimento,Oficina terceirizada,5456.54,2
+409,16,2025-12-31,Preventiva,Alinhamento e balanceamento,Oficina interna,2273.57,2
